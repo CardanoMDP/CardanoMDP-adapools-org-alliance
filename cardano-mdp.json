@@ -62,11 +62,21 @@
                 "pool_id": "f66a36de855d53b9d5110bd46640f48dbab1c848c9e2f5c36d8c12dc",
                 "member_since": "2020-12-01",
                 "name": "GAIA Stake Pool"
-            }
+            },
             "8": {
                 "pool_id": "0dda2d4271340a92116cb8032c16b49117b27752ab0ff8b3d6813021",
                 "member_since": "2021-01-16",
                 "name": "The Stake DINGO"
+           },
+           "9": {
+                "pool_id": "079c374160b0ae34a5a20b8e95a5b5c8766239b2984f13d7ab962791",
+                "member_since": "2020-12-01",
+                "name": "Spectrum Pool"
+           },
+           "10": {
+                "pool_id": "",
+                "member_since": "",
+                "name": ""
            }
         }
     }
