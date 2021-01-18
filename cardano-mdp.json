@@ -1,0 +1,76 @@
+{
+    "Cardano Mission-Driven Pools": {
+        "about": {
+            "name": "Mission-Driven Pools",
+            "description_short": "Short aliance description. Max 255 len.",
+            "description_long": "Mission Driven Pools [MDP] is a collective of mission-based  Cardano stake pool operators. These are the current goals of our collective:",
+            "website": "https://missiondrivenpools.org",
+            "url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
+            "url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
+            "social": {
+                "twitter_handle": "@CardanoMDP",
+                "telegram_handle": "https://t.me/missionbasedcardanopools",
+                "facebook_handle": "",
+                "youtube_handle": "",
+                "twitch_handle": "",
+                "discord_handle": "",
+                "github_handle": ""
+            },
+            "types": {
+                "charity": true,
+                "business": false,
+                "beneficial": false
+            }
+        },
+        "members": {
+            "0": {
+                "pool_id": "34a89f77c5fcf0563d129bde9b255f20b269a2dda1561c65d418ec40",
+                "member_since": "2020-12-01",
+                "name": "GREEN Stake Pool"
+            },
+            "1": {
+                "pool_id": "134b0ad4f7109b0b4514d666a838a5e14291e72ed99ff27488791dd5",
+                "member_since": "YYYY-mm-dd",
+                "name": "Vegan Pool"
+            },
+            "2": {
+                "pool_id": "cf635c0a032bc98d453b65512aaf2b0f9b0f62b2b865a6011523aaf7",
+                "member_since": "2020-12-01",
+                "name": "SMILES ON AFRICA"
+            },
+            "3": {
+                "pool_id": "6ab1fd13a4e182f731ecf356ce3e145311f43cd512be2579ba3572e9",
+                "member_since": "2020-01-17",
+                "name": ""
+            },
+            "4": {
+                "pool_id": "00333b89543da962cc92e7ffa45848f42a98f7276780670728ce5256”,
+                "member_since": "2020-12-01",
+                "name": "CHARITY POOL"
+            },
+            "5": {
+                "pool_id": "557fb2fa1a4d61d5ffc613f9f1211a5b22f5c2c3244589adc3168f3d”,
+                "member_since": "2020-12-01",
+                "name": "LIFT Stake Pool"
+            },
+            "6": {
+                "pool_id": "fd16af916631bd29bf926d210da45d4aaa852242965ad06c124726f1”,
+                "member_since": "2020-12-01",
+                "name": "Afrik Stake Pool"
+            },
+       "7": {
+                "pool_id": "f66a36de855d53b9d5110bd46640f48dbab1c848c9e2f5c36d8c12dc”,
+                "member_since": "2020-12-01",
+                "name": "GAIA Stake Pool"
+            }
+            "8": {
+                "pool_id": "0dda2d4271340a92116cb8032c16b49117b27752ab0ff8b3d6813021”,
+                "member_since": "2021-01-16",
+                "name": "The Stake DINGO"
+            }
+        }
+    }
+}
+
+
+
