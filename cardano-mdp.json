@@ -82,6 +82,11 @@
                 "pool_id": "455778840915ea2ec843bfee7269c1e0963b08ce5d1cdf029e39cb59",
                 "member_since": "2021-01-15",
                 "name": "FEEL Stake Pool"
+           },
+           "12": {
+                "pool_id": "1e4f8dc9672d16131da6533287e32ea100b34d67543ff7c7358c7b5e",
+                "member_since": "2021-01-01",
+                "name": "RISE"
            }
         }
     }
