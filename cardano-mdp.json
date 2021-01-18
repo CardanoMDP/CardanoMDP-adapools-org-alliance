@@ -2,7 +2,7 @@
     "Cardano Mission-Driven Pools": {
         "about": {
             "name": "Mission-Driven Pools",
-            "description_short": "Short aliance description. Max 255 len.",
+            "description_short": "We are a collective of pools that have charitable missions!",
             "description_long": "Mission Driven Pools [MDP] is a collective of mission-based  Cardano stake pool operators. These are the current goals of our collective:",
             "website": "https://missiondrivenpools.org",
             "url_png_icon_64x64": "https://cardanomdp.github.io/assets/CardanoMDP-64.jpg",
