@@ -3,7 +3,7 @@
         "about": {
             "name": "Mission-Driven Pools",
             "description_short": "We are a collective of pools that have charitable missions!",
-            "description_long": "Mission Driven Pools [MDP] is a collective of mission-based  Cardano stake pool operators. These are the current goals of our collective:",
+            "description_long": "Mission Driven Pools [MDP] is a collective of mission-based Cardano stake pool operators. The [MDP] pools are aiming to give back a portion of their earnings to do some good in the world. Dive into our website to browse our fantastic missions, and support one you relate to! ",
             "website": "https://missiondrivenpools.org",
             "url_png_icon_64x64": "https://cardanomdp.github.io/assets/CardanoMDP-64.jpg",
             "url_png_logo": "https://cardanomdp.github.io/assets/CardanoMDP-640.jpg",
@@ -37,11 +37,6 @@
                 "pool_id": "cf635c0a032bc98d453b65512aaf2b0f9b0f62b2b865a6011523aaf7",
                 "member_since": "2020-12-01",
                 "name": "SMILES ON AFRICA"
-            },
-            "3": {
-                "pool_id": "6ab1fd13a4e182f731ecf356ce3e145311f43cd512be2579ba3572e9",
-                "member_since": "2020-01-17",
-                "name": ""
             },
             "4": {
                 "pool_id": "00333b89543da962cc92e7ffa45848f42a98f7276780670728ce5256",
@@ -87,6 +82,16 @@
                 "pool_id": "1e4f8dc9672d16131da6533287e32ea100b34d67543ff7c7358c7b5e",
                 "member_since": "2021-01-01",
                 "name": "RISE"
+           },
+           "13": {
+                "pool_id": "6f9ecffc4bc41068db87bd193e5842577df08a464cb7c001865c8b60",
+                "member_since": "2020-12-01",
+                "name": "LiverPool"
+           },
+           "14": {
+                "pool_id": "80cb48c2953a78d25f69dbcea305fbcce0c520c25d401cd75a259cf1",
+                "member_since": "2020-12-01",
+                "name": "[AIR] ADABreathes"
            }
         }
     }
