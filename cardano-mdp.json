@@ -79,11 +79,16 @@
                 "name": "FEEL Stake Pool"
            },
            "12": {
+                "pool_id": "1e4f8dc9672d16131da6533287e32ea100b34d67543ff7c7358c7b5e",
+                "member_since": "2021-01-01",
+                "name": "RISE"
+           },
+           "13": {
                 "pool_id": "6f9ecffc4bc41068db87bd193e5842577df08a464cb7c001865c8b60",
                 "member_since": "2020-12-01",
                 "name": "LiverPool"
            },
-           "13": {
+           "14": {
                 "pool_id": "80cb48c2953a78d25f69dbcea305fbcce0c520c25d401cd75a259cf1",
                 "member_since": "2020-12-01",
                 "name": "[AIR] ADABreathes"
