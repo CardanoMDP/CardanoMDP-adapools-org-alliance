@@ -127,7 +127,12 @@
                 "pool_id": "e29b14719f694767d0faf92f654cf66585bcefd8139bf5a33b7ed181",
                 "member_since": "2021-01-01",
                 "name": "[SALAD] Insalada Stake Pool"
-            }
+            },
+            "21": {
+                "pool_id": "11cad31f95526b86724c84b818228fc2500bca5ce9b2864a85b94058",
+                "member_since": "2020-12-03",
+                "name": "[CO2P] CO2-Pool"
+            }    
         }
     }
 }
