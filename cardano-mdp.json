@@ -1,5 +1,5 @@
 {
-    "Cardano Mission-Driven Pools": {
+    "adapools": {
         "about": {
             "name": "Mission-Driven Pools",
             "description_short": "We are a collective of pools that have charitable missions!",
@@ -8,8 +8,8 @@
             "url_png_icon_64x64": "https://cardanomdp.github.io/assets/CardanoMDP-64.jpg",
             "url_png_logo": "https://cardanomdp.github.io/assets/CardanoMDP-640.jpg",
             "social": {
-                "twitter_handle": "@CardanoMDP",
-                "telegram_handle": "https://t.me/missionbasedcardanopools",
+                "twitter_handle": "CardanoMDP",
+                "telegram_handle": "missionbasedcardanopools",
                 "facebook_handle": "",
                 "youtube_handle": "",
                 "twitch_handle": "",
@@ -66,7 +66,7 @@
            "8": {
                 "pool_id": "079c374160b0ae34a5a20b8e95a5b5c8766239b2984f13d7ab962791",
                 "member_since": "2020-12-01",
-                "name": "Spectrum Pool"
+                "name": "Spectrum Pool [SPEC]"
            },
            "9": {
                 "pool_id": "b98514bb7c8fe8efaa6762d6ae811ad2fbb783653f7af1aba12ba201",
