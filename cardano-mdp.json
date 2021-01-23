@@ -152,6 +152,11 @@
                 "pool_id": "0036c901c2c2221798e5e96edd7d0e600077114ed6f067e21d302a6d",
                 "member_since": "2020-12-10",
                 "name": "CLIMA Pool"
+            },
+            "26": {
+                "pool_id": "f9f646eb4b04adea5afee58b63cc9f53e0da82118c2ab10a6557b922",
+                "member_since": "2021-01-21",
+                "name": "Kurdopia Pool"    
             }  
         }
     }
