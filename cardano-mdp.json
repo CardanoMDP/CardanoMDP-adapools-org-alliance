@@ -157,7 +157,12 @@
                 "pool_id": "f9f646eb4b04adea5afee58b63cc9f53e0da82118c2ab10a6557b922",
                 "member_since": "2021-01-21",
                 "name": "Kurdopia Pool"    
-            }  
+            },
+            "27": {
+                "pool_id": "7e3a1ed8f2085923debacc6866aefaba941edd638ff0886061ebf521",
+                "member_since": "2021-01-24",
+                "name": "[SWAG] Swag Stakepool"
+            }
         }
     }
 }
