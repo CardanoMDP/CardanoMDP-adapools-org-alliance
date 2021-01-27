@@ -184,7 +184,12 @@
                 "pool_id": "578ce876fe97ffc5f2f999d9ff4199a2bc7bfaf732e648471fac4ed2",
                 "member_since": "2021-01-26",
                 "name": "[ARTZ] ARTZ Pool"
-            }
+            },
+            "32": {
+                "pool_id": "125b520d5bd2e0c5f608535365ead3cc07f3e9b6255da682c85c85c7",
+                "member_since": "2021-01-27",
+                "name": "[iBEE] iBeeStaking"
+            }  
         }
     }
 }
