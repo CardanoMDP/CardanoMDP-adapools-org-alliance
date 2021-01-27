@@ -189,6 +189,11 @@
                 "pool_id": "125b520d5bd2e0c5f608535365ead3cc07f3e9b6255da682c85c85c7",
                 "member_since": "2021-01-27",
                 "name": "[iBEE] iBeeStaking"
+            },
+            "33": {
+                "pool_id": "99541bed40b1015a1d81083184973b59a3f50bce4392492e99ff0bef",
+                "member_since": "2021-01-27",
+                "name": "[LOCO] Loco ADA"
             }  
         }
     }
