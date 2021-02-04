@@ -199,9 +199,8 @@
                 "pool_id": "01c1b3f6a85328ea68000141a3e10965a9c83b5ba151d3ebfc85ded7",
                 "member_since": "2021-12-01",
                 "name": "[NOW] NOW GRANTS ARTISTS"
-            },
+            },  
             "35": {
-
                 "pool_id": "4ee9e4c2ec6fc68850330dbc75ccd7ebf7951f20e1085d324f36cf44",
                 "member_since": "2021-28-01",
                 "name": "[BANDA] banderini"
@@ -210,6 +209,11 @@
                 "pool_id": "72de14d78a359617a7dd0b33c5554ed4edbafd768ece87c4bf672ee0",
                 "member_since": "2021-12-01",
                 "name": "[ECO] ECO POOL"
+            },
+            "37": {
+                "pool_id": "4b0a9386e29fae1d2a240bb585a7d1e94f76fa63b9ddbf23e1c72e9d",
+                "member_since": "2020-10-19",
+                "name": "[GNP1] GrahamsNumberPlus1"     
         }
     }
 }
