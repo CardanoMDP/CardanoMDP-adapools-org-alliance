@@ -226,7 +226,7 @@
                "name": "[ALPS] ALPS - Stake Pool"
             },
             "40": {    
-               "pool_id": "ea7cdd8918204b6c53e41ac6b0c319a1ffa95312660eeeb2ced8be3a"
+               "pool_id": "ea7cdd8918204b6c53e41ac6b0c319a1ffa95312660eeeb2ced8be3a",
                "member_since": "2021-02-04",
                "name": "[SHARE] SHARE Stake Pool"
         }
