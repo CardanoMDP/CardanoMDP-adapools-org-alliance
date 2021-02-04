@@ -229,6 +229,11 @@
                "pool_id": "ea7cdd8918204b6c53e41ac6b0c319a1ffa95312660eeeb2ced8be3a",
                "member_since": "2021-02-04",
                "name": "[SHARE] SHARE Stake Pool"
+            },
+            "41": {    
+               "pool_id": "8fa4537044c02b232430dca78f51ca74c22d1ed7fb990be8b65d2794",
+               "member_since": "2021-02-04",
+               "name": "[WHITE] The White Project"
         }
     }
 }
