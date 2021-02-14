@@ -1,239 +1,243 @@
 {
-    "adapools": {
-        "about": {
-            "name": "Mission-Driven Pools",
-            "description_short": "We are a collective of pools that have charitable missions!",
-            "description_long": "Mission Driven Pools [MDP] is a collective of mission-based Cardano stake pool operators. The [MDP] pools are aiming to give back a portion of their earnings to do some good in the world. Dive into our website to browse our fantastic missions, and support one you relate to! ",
-            "website": "https://missiondrivenpools.org",
-            "url_png_icon_64x64": "https://cardanomdp.github.io/assets/CardanoMDP-64.jpg",
-            "url_png_logo": "https://cardanomdp.github.io/assets/CardanoMDP-640.jpg",
-            "social": {
-                "twitter_handle": "CardanoMDP",
-                "telegram_handle": "missionbasedcardanopools",
-                "facebook_handle": "",
-                "youtube_handle": "",
-                "twitch_handle": "",
-                "discord_handle": "",
-                "github_handle": ""
-            },
-            "types": {
-                "charity": true,
-                "business": false,
-                "beneficial": false
-            }
-        },
-        "members": {
-            "0": {
-                "pool_id": "34a89f77c5fcf0563d129bde9b255f20b269a2dda1561c65d418ec40",
-                "member_since": "2020-12-01",
-                "name": "GREEN Stake Pool"
-            },
-            "1": {
-                "pool_id": "134b0ad4f7109b0b4514d666a838a5e14291e72ed99ff27488791dd5",
-                "member_since": "YYYY-mm-dd",
-                "name": "Vegan Pool"
-            },
-            "2": {
-                "pool_id": "cf635c0a032bc98d453b65512aaf2b0f9b0f62b2b865a6011523aaf7",
-                "member_since": "2020-12-01",
-                "name": "SMILES ON AFRICA"
-            },
-            "3": {
-                "pool_id": "00333b89543da962cc92e7ffa45848f42a98f7276780670728ce5256",
-                "member_since": "2020-12-01",
-                "name": "CHARITY POOL"
-            },
-            "4": {
-                "pool_id": "557fb2fa1a4d61d5ffc613f9f1211a5b22f5c2c3244589adc3168f3d",
-                "member_since": "2020-12-01",
-                "name": "LIFT Stake Pool"
-            },
-            "5": {
-                "pool_id": "fd16af916631bd29bf926d210da45d4aaa852242965ad06c124726f1",
-                "member_since": "2020-12-01",
-                "name": "Afrik Stake Pool"
-            },
-            "6": {
-                "pool_id": "f66a36de855d53b9d5110bd46640f48dbab1c848c9e2f5c36d8c12dc",
-                "member_since": "2020-12-01",
-                "name": "GAIA Stake Pool"
-            },
-            "7": {
-                "pool_id": "0dda2d4271340a92116cb8032c16b49117b27752ab0ff8b3d6813021",
-                "member_since": "2021-01-16",
-                "name": "The Stake DINGO"
-           },
-           "8": {
-                "pool_id": "079c374160b0ae34a5a20b8e95a5b5c8766239b2984f13d7ab962791",
-                "member_since": "2020-12-01",
-                "name": "Spectrum Pool [SPEC]"
-           },
-           "9": {
-                "pool_id": "b98514bb7c8fe8efaa6762d6ae811ad2fbb783653f7af1aba12ba201",
-                "member_since": "2021-01-10",
-                "name": "ADA Trees"
-           },
-           "10": {
-                "pool_id": "455778840915ea2ec843bfee7269c1e0963b08ce5d1cdf029e39cb59",
-                "member_since": "2021-01-15",
-                "name": "FEEL Stake Pool"
-           },
-           "11": {
-                "pool_id": "1e4f8dc9672d16131da6533287e32ea100b34d67543ff7c7358c7b5e",
-                "member_since": "2021-01-01",
-                "name": "RISE"
-           },
-           "12": {
-                "pool_id": "6f9ecffc4bc41068db87bd193e5842577df08a464cb7c001865c8b60",
-                "member_since": "2020-12-01",
-                "name": "LiverPool"
-           },
-           "13": {
-                "pool_id": "80cb48c2953a78d25f69dbcea305fbcce0c520c25d401cd75a259cf1",
-                "member_since": "2020-12-01",
-                "name": "[AIR] ADABreathes"
-           },
-           "14": {
-                "pool_id": "0db403b246e3eafac8407b42bf2719208a4e53dfd9a9884f275ef19a ",
-                "member_since": "2020-12-01",
-                "name": "[CABU] Cardano Abu"
-           },
-           "15": {
-                "pool_id": "5059d31b0c8c11d6d2404266844e31f13dab05eae77815db8994a598",
-                "member_since": "2020-12-07",
-                "name": "SVRN ~ Commercial Sovereignty Restoration"
-            },
-            "16": {
-                "pool_id": "e3f8a83cefed03fe4ebdc4f50f3cdd880a7c2fd0b2ce7ff9da9cdce2",
-                "member_since": "2021-01-18",
-                "name": "[VOLCY]Greg ADA STAKEPOOl"
-            },
-            "17": {
-                "pool_id": "9138b6f09e8e69c29fdee4e11b147b7ad351aab23fc73a9976907f10",
-                "member_since": "2020-12-01",
-                "name": "[KOALA] KoalaPool"
-            },
-            "18": {
-                "pool_id": "6879ab43e837d11c606e37dbf3e743f13f303c9dff53be602f263d6d",
-                "member_since": "2021-01-01",
-                "name": "[FARM] ADA Farm"
-            },
-            "19": {
-                "pool_id": "6cabf3837d2884000af0eb9b661870f0080233cfb4e9a239a007450c",
-                "member_since": "2021-20-01",
-                "name": "[K9K] K9K Staking Pool"
-            },
-            "20": {
-                "pool_id": "e29b14719f694767d0faf92f654cf66585bcefd8139bf5a33b7ed181",
-                "member_since": "2021-01-01",
-                "name": "[SALAD] Insalada Stake Pool"
-            },
-            "21": {
-                "pool_id": "11cad31f95526b86724c84b818228fc2500bca5ce9b2864a85b94058",
-                "member_since": "2020-12-03",
-                "name": "[CO2P] CO2-Pool"
-            },
-            "22": {
-                "pool_id": "95954fa839905a201d8d97cc31be8bbd4ac2ad0df1d201accce3a23e",
-                "member_since": "2020-12-02",
-                "name": "[GROW] GROW TEAM"
-            },
-            "23": {
-                "pool_id": "6aef3925b53d98084e8a9ec0145c1770e7eb57f84cd2d2613bb4c19a",
-                "member_since": "2020-12-09",
-                "name": "[LPR] LOPHRE"
-            },
-            "24": {
-                "pool_id": "58f356d69e115c172a18b20a720f1108791235aff7757a448c037de1",
-                "member_since": "2020-12-07",
-                "name": "[BUDHA] Buddha Pool"
-            },
-            "25": {
-                "pool_id": "0036c901c2c2221798e5e96edd7d0e600077114ed6f067e21d302a6d",
-                "member_since": "2020-12-10",
-                "name": "CLIMA Pool"
-            },
-            "26": {
-                "pool_id": "f9f646eb4b04adea5afee58b63cc9f53e0da82118c2ab10a6557b922",
-                "member_since": "2021-01-21",
-                "name": "Kurdopia Pool"    
-            },
-            "27": {
-                "pool_id": "7e3a1ed8f2085923debacc6866aefaba941edd638ff0886061ebf521",
-                "member_since": "2021-01-24",
-                "name": "[SWAG] Swag Stakepool"
-                
-            },
-             "28": {
-                "pool_id": "a24a0b7f7dec890db8c59c47646290522234a522a98f00cf2d589a80",
-                "member_since": "2021-01-18",
-                "name": "[WEQNT] WeQanhet Stakepool"
-                
-            },
-             "29": {
-                "pool_id": "a2ccd8e93f5a518d4400790cb081673e79ed41e4bf1132f740f26a28",
-                "member_since": "2020-12-30",
-                "name": "[ARM1] ArmADA StakePool"
-            },
-             "30": {
-                "pool_id": "96aa57f4af0652c800cde0d25288bf6d1e35aefd11770d60e6bf8f0a",
-                "member_since": "2020-12-30",
-                "name": "[BKK] Suvarnabhumi airport Thailand"
-            },
-            "31": {
-                "pool_id": "578ce876fe97ffc5f2f999d9ff4199a2bc7bfaf732e648471fac4ed2",
-                "member_since": "2021-01-26",
-                "name": "[ARTZ] ARTZ Pool"
-            },
-            "32": {
-                "pool_id": "125b520d5bd2e0c5f608535365ead3cc07f3e9b6255da682c85c85c7",
-                "member_since": "2021-01-27",
-                "name": "[iBEE] iBeeStaking"
-            },
-            "33": {
-                "pool_id": "99541bed40b1015a1d81083184973b59a3f50bce4392492e99ff0bef",
-                "member_since": "2021-01-27",
-                "name": "[LOCO] Loco ADA"
-            },  
-            "34": {
-                "pool_id": "01c1b3f6a85328ea68000141a3e10965a9c83b5ba151d3ebfc85ded7",
-                "member_since": "2021-12-01",
-                "name": "[NOW] NOW GRANTS ARTISTS"
-            },  
-            "35": {
-                "pool_id": "4ee9e4c2ec6fc68850330dbc75ccd7ebf7951f20e1085d324f36cf44",
-                "member_since": "2021-28-01",
-                "name": "[BANDA] banderini"
-            },
-            "36": {
-                "pool_id": "72de14d78a359617a7dd0b33c5554ed4edbafd768ece87c4bf672ee0",
-                "member_since": "2021-12-01",
-                "name": "[ECO] ECO POOL"
-            },
-            "37": {
-                "pool_id": "4b0a9386e29fae1d2a240bb585a7d1e94f76fa63b9ddbf23e1c72e9d",
-                "member_since": "2020-10-19",
-                "name": "[GNP1] GrahamsNumberPlus1"
-            },    
-            "38": {
-                "pool_id": "4ace578417d29b77ce73c4460997773c5458feb239844fb55d5e212f",
-                "member_since": "2021-12-01",
-                "name": "[LAVAN] NOW LAVAN"
-            },
-            "39": {
-               "pool_id": "16d216d074625d2dbb75c20948e4d9a1efe0fe79c4c915d4b5391de1",
-               "member_since": "2021-02-01",
-               "name": "[ALPS] ALPS - Stake Pool"
-            },
-            "40": {    
-               "pool_id": "ea7cdd8918204b6c53e41ac6b0c319a1ffa95312660eeeb2ced8be3a",
-               "member_since": "2021-02-04",
-               "name": "[SHARE] SHARE Stake Pool"
-            },
-            "41": {    
-               "pool_id": "8fa4537044c02b232430dca78f51ca74c22d1ed7fb990be8b65d2794",
-               "member_since": "2021-02-04",
-               "name": "[WHITE] The White Project"
-        }
+  "adapools": {
+    "about": {
+      "name": "Mission-Driven Pools",
+      "description_short": "We are a collective of pools that have charitable missions!",
+      "description_long": "Mission Driven Pools [MDP] is a collective of mission-based Cardano stake pool operators. The [MDP] pools are aiming to give back a portion of their earnings to do some good in the world. Dive into our website to browse our fantastic missions, and support one you relate to! ",
+      "website": "https://missiondrivenpools.org",
+      "url_png_icon_64x64": "https://cardanomdp.github.io/assets/CardanoMDP-64.jpg",
+      "url_png_logo": "https://cardanomdp.github.io/assets/CardanoMDP-640.jpg",
+      "social": {
+        "twitter_handle": "CardanoMDP",
+        "telegram_handle": "missionbasedcardanopools",
+        "facebook_handle": "",
+        "youtube_handle": "",
+        "twitch_handle": "",
+        "discord_handle": "",
+        "github_handle": ""
+      },
+      "types": {
+        "charity": true,
+        "business": false,
+        "beneficial": false
+      }
+    },
+    "members": {
+      "0": {
+        "pool_id": "34a89f77c5fcf0563d129bde9b255f20b269a2dda1561c65d418ec40",
+        "member_since": "2020-12-01",
+        "name": "GREEN Stake Pool"
+      },
+      "1": {
+        "pool_id": "134b0ad4f7109b0b4514d666a838a5e14291e72ed99ff27488791dd5",
+        "member_since": "YYYY-mm-dd",
+        "name": "Vegan Pool"
+      },
+      "2": {
+        "pool_id": "cf635c0a032bc98d453b65512aaf2b0f9b0f62b2b865a6011523aaf7",
+        "member_since": "2020-12-01",
+        "name": "SMILES ON AFRICA"
+      },
+      "3": {
+        "pool_id": "00333b89543da962cc92e7ffa45848f42a98f7276780670728ce5256",
+        "member_since": "2020-12-01",
+        "name": "CHARITY POOL"
+      },
+      "4": {
+        "pool_id": "557fb2fa1a4d61d5ffc613f9f1211a5b22f5c2c3244589adc3168f3d",
+        "member_since": "2020-12-01",
+        "name": "LIFT Stake Pool"
+      },
+      "5": {
+        "pool_id": "fd16af916631bd29bf926d210da45d4aaa852242965ad06c124726f1",
+        "member_since": "2020-12-01",
+        "name": "Afrik Stake Pool"
+      },
+      "6": {
+        "pool_id": "f66a36de855d53b9d5110bd46640f48dbab1c848c9e2f5c36d8c12dc",
+        "member_since": "2020-12-01",
+        "name": "GAIA Stake Pool"
+      },
+      "7": {
+        "pool_id": "0dda2d4271340a92116cb8032c16b49117b27752ab0ff8b3d6813021",
+        "member_since": "2021-01-16",
+        "name": "The Stake DINGO"
+      },
+      "8": {
+        "pool_id": "079c374160b0ae34a5a20b8e95a5b5c8766239b2984f13d7ab962791",
+        "member_since": "2020-12-01",
+        "name": "Spectrum Pool [SPEC]"
+      },
+      "9": {
+        "pool_id": "b98514bb7c8fe8efaa6762d6ae811ad2fbb783653f7af1aba12ba201",
+        "member_since": "2021-01-10",
+        "name": "ADA Trees"
+      },
+      "10": {
+        "pool_id": "455778840915ea2ec843bfee7269c1e0963b08ce5d1cdf029e39cb59",
+        "member_since": "2021-01-15",
+        "name": "FEEL Stake Pool"
+      },
+      "11": {
+        "pool_id": "1e4f8dc9672d16131da6533287e32ea100b34d67543ff7c7358c7b5e",
+        "member_since": "2021-01-01",
+        "name": "RISE"
+      },
+      "12": {
+        "pool_id": "6f9ecffc4bc41068db87bd193e5842577df08a464cb7c001865c8b60",
+        "member_since": "2020-12-01",
+        "name": "LiverPool"
+      },
+      "13": {
+        "pool_id": "80cb48c2953a78d25f69dbcea305fbcce0c520c25d401cd75a259cf1",
+        "member_since": "2020-12-01",
+        "name": "[AIR] ADABreathes"
+      },
+      "14": {
+        "pool_id": "0db403b246e3eafac8407b42bf2719208a4e53dfd9a9884f275ef19a ",
+        "member_since": "2020-12-01",
+        "name": "[CABU] Cardano Abu"
+      },
+      "15": {
+        "pool_id": "5059d31b0c8c11d6d2404266844e31f13dab05eae77815db8994a598",
+        "member_since": "2020-12-07",
+        "name": "SVRN ~ Commercial Sovereignty Restoration"
+      },
+      "16": {
+        "pool_id": "e3f8a83cefed03fe4ebdc4f50f3cdd880a7c2fd0b2ce7ff9da9cdce2",
+        "member_since": "2021-01-18",
+        "name": "[VOLCY]Greg ADA STAKEPOOl"
+      },
+      "17": {
+        "pool_id": "9138b6f09e8e69c29fdee4e11b147b7ad351aab23fc73a9976907f10",
+        "member_since": "2020-12-01",
+        "name": "[KOALA] KoalaPool"
+      },
+      "18": {
+        "pool_id": "6879ab43e837d11c606e37dbf3e743f13f303c9dff53be602f263d6d",
+        "member_since": "2021-01-01",
+        "name": "[FARM] ADA Farm"
+      },
+      "19": {
+        "pool_id": "6cabf3837d2884000af0eb9b661870f0080233cfb4e9a239a007450c",
+        "member_since": "2021-20-01",
+        "name": "[K9K] K9K Staking Pool"
+      },
+      "20": {
+        "pool_id": "e29b14719f694767d0faf92f654cf66585bcefd8139bf5a33b7ed181",
+        "member_since": "2021-01-01",
+        "name": "[SALAD] Insalada Stake Pool"
+      },
+      "21": {
+        "pool_id": "11cad31f95526b86724c84b818228fc2500bca5ce9b2864a85b94058",
+        "member_since": "2020-12-03",
+        "name": "[CO2P] CO2-Pool"
+      },
+      "22": {
+        "pool_id": "95954fa839905a201d8d97cc31be8bbd4ac2ad0df1d201accce3a23e",
+        "member_since": "2020-12-02",
+        "name": "[GROW] GROW TEAM"
+      },
+      "23": {
+        "pool_id": "6aef3925b53d98084e8a9ec0145c1770e7eb57f84cd2d2613bb4c19a",
+        "member_since": "2020-12-09",
+        "name": "[LPR] LOPHRE"
+      },
+      "24": {
+        "pool_id": "58f356d69e115c172a18b20a720f1108791235aff7757a448c037de1",
+        "member_since": "2020-12-07",
+        "name": "[BUDHA] Buddha Pool"
+      },
+      "25": {
+        "pool_id": "0036c901c2c2221798e5e96edd7d0e600077114ed6f067e21d302a6d",
+        "member_since": "2020-12-10",
+        "name": "CLIMA Pool"
+      },
+      "26": {
+        "pool_id": "f9f646eb4b04adea5afee58b63cc9f53e0da82118c2ab10a6557b922",
+        "member_since": "2021-01-21",
+        "name": "Kurdopia Pool"
+      },
+      "27": {
+        "pool_id": "7e3a1ed8f2085923debacc6866aefaba941edd638ff0886061ebf521",
+        "member_since": "2021-01-24",
+        "name": "[SWAG] Swag Stakepool"
+      },
+      "28": {
+        "pool_id": "a24a0b7f7dec890db8c59c47646290522234a522a98f00cf2d589a80",
+        "member_since": "2021-01-18",
+        "name": "[WEQNT] WeQanhet Stakepool"
+      },
+      "29": {
+        "pool_id": "a2ccd8e93f5a518d4400790cb081673e79ed41e4bf1132f740f26a28",
+        "member_since": "2020-12-30",
+        "name": "[ARM1] ArmADA StakePool"
+      },
+      "30": {
+        "pool_id": "96aa57f4af0652c800cde0d25288bf6d1e35aefd11770d60e6bf8f0a",
+        "member_since": "2020-12-30",
+        "name": "[BKK] Suvarnabhumi airport Thailand"
+      },
+      "31": {
+        "pool_id": "578ce876fe97ffc5f2f999d9ff4199a2bc7bfaf732e648471fac4ed2",
+        "member_since": "2021-01-26",
+        "name": "[ARTZ] ARTZ Pool"
+      },
+      "32": {
+        "pool_id": "125b520d5bd2e0c5f608535365ead3cc07f3e9b6255da682c85c85c7",
+        "member_since": "2021-01-27",
+        "name": "[iBEE] iBeeStaking"
+      },
+      "33": {
+        "pool_id": "99541bed40b1015a1d81083184973b59a3f50bce4392492e99ff0bef",
+        "member_since": "2021-01-27",
+        "name": "[LOCO] Loco ADA"
+      },
+      "34": {
+        "pool_id": "01c1b3f6a85328ea68000141a3e10965a9c83b5ba151d3ebfc85ded7",
+        "member_since": "2021-12-01",
+        "name": "[NOW] NOW GRANTS ARTISTS"
+      },
+      "35": {
+        "pool_id": "4ee9e4c2ec6fc68850330dbc75ccd7ebf7951f20e1085d324f36cf44",
+        "member_since": "2021-28-01",
+        "name": "[BANDA] banderini"
+      },
+      "36": {
+        "pool_id": "72de14d78a359617a7dd0b33c5554ed4edbafd768ece87c4bf672ee0",
+        "member_since": "2021-12-01",
+        "name": "[ECO] ECO POOL"
+      },
+      "37": {
+        "pool_id": "4b0a9386e29fae1d2a240bb585a7d1e94f76fa63b9ddbf23e1c72e9d",
+        "member_since": "2020-10-19",
+        "name": "[GNP1] GrahamsNumberPlus1"
+      },
+      "38": {
+        "pool_id": "4ace578417d29b77ce73c4460997773c5458feb239844fb55d5e212f",
+        "member_since": "2021-12-01",
+        "name": "[LAVAN] NOW LAVAN"
+      },
+      "39": {
+        "pool_id": "16d216d074625d2dbb75c20948e4d9a1efe0fe79c4c915d4b5391de1",
+        "member_since": "2021-02-01",
+        "name": "[ALPS] ALPS - Stake Pool"
+      },
+      "40": {
+        "pool_id": "ea7cdd8918204b6c53e41ac6b0c319a1ffa95312660eeeb2ced8be3a",
+        "member_since": "2021-02-04",
+        "name": "[SHARE] SHARE Stake Pool"
+      },
+      "41": {
+        "pool_id": "8fa4537044c02b232430dca78f51ca74c22d1ed7fb990be8b65d2794",
+        "member_since": "2021-02-04",
+        "name": "[WHITE] The White Project"
+      },
+      "42": {
+        "pool_id": "a37460a9b761e67b18f0262ad18f80263f6b6d143c33a9873965ecd3",
+        "member_since": "2021-02-14",
+        "name": "[MAJOR] Major Pool"
+      }
     }
-}}
+  }
+}
