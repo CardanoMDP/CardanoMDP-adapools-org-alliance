@@ -234,6 +234,12 @@
                "pool_id": "8fa4537044c02b232430dca78f51ca74c22d1ed7fb990be8b65d2794",
                "member_since": "2021-02-04",
                "name": "[WHITE] The White Project"
+            },
+            "42": {    
+               "pool_id": "25dbae9d8c0bc6feb611d4aa2938de9704b4eb080f54906caddbe0bf",
+               "member_since": "2021-02-15",
+               "name": "[ALPS2] ALPS2 - Stake Pool"
+            }
         }
     }
-}}
+}
