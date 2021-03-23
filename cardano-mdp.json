@@ -239,6 +239,11 @@
                "pool_id": "5790d62ab1ba703e861fe800f9cefaaf1485c3ca42c6ba9ce74690a1",
                "member_since": "2021-01-01",
                "name": "[TTS17] Time To Stake - Time To Support Decentralization!"
+        },
+            "43": {    
+               "pool_id": "pool19p6tdq9urs5kcx7a4mhp8ldc3j3t3ea4xlz5nlyesa35cqhheul",
+               "member_since": "2021-03-23",
+               "name": "[PMLX] ProMLX Stake Pool"
         }
     }
 }}
