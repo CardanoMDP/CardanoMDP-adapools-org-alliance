@@ -235,10 +235,16 @@
                "member_since": "2021-02-04",
                "name": "[WHITE] The White Project"
             },
-            "42": {    
-               "pool_id": "5790d62ab1ba703e861fe800f9cefaaf1485c3ca42c6ba9ce74690a1",
-               "member_since": "2021-01-01",
-               "name": "[TTS17] Time To Stake - Time To Support Decentralization!"
-        }
+            "42": {
+				"pool_id": "5790d62ab1ba703e861fe800f9cefaaf1485c3ca42c6ba9ce74690a1",
+				"member_since": "2021-01-01",
+				"name": "[TTS17] Time To Stake - Time To Support Decentralization!"
+			},
+			"43": {
+				"pool_id": "fcc8a499e4711c9b23df11b9f3a39584ff47bb1cff7fb764f6f5ed9c",
+				"member_since": "2021-04-01",
+				"name": "[FOOD] FoodPool"
+
+			}
     }
 }}
