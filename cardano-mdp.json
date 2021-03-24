@@ -241,9 +241,15 @@
                "name": "[TTS17] Time To Stake - Time To Support Decentralization!"
             },
             "43": {    
+               "pool_id": "0409605581b12bb96d1f5c90570a481a7a828f331ea9e2b5e82311a9",
+               "member_since": "2021-03-24",
+               "name": "[WLP] Wildlife Pool"
+            },
+            "44": {    
                "pool_id": "0a423fa44f23b13cba59474427d11746136672af66b2d80b4499dd1d",
-               "member_since": "2021-02-01",
+               "member_since": "2021-03-24",
                "name": "[ADI] Cardanesia"
+
             }
     }
 }}
