@@ -269,6 +269,11 @@
                "pool_id": "7d59eb08203e86f74d3011c7e967ed50fbd0954001eab1cb00b69422",
                "member_since": "2021-03-23",
                "name": "SEAL"
+            },
+            "49": {
+              "pool_id": "fcc8a499e4711c9b23df11b9f3a39584ff47bb1cff7fb764f6f5ed9c",
+              "member_since": "2021-03-24",
+              "name": "[FOOD] FoodPool"
             }
         }
     }
