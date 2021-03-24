@@ -239,6 +239,11 @@
                "pool_id": "5790d62ab1ba703e861fe800f9cefaaf1485c3ca42c6ba9ce74690a1",
                "member_since": "2021-01-01",
                "name": "[TTS17] Time To Stake - Time To Support Decentralization!"
-        }
+            },
+            "43": {    
+               "pool_id": "0409605581b12bb96d1f5c90570a481a7a828f331ea9e2b5e82311a9",
+               "member_since": "2021-03-24",
+               "name": "[WLP] Wildlife Pool"
+            }
     }
 }}
