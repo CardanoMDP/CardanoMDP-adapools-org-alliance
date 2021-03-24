@@ -279,6 +279,11 @@
                "pool_id": "afd458ac6ca85bbf719e0a7930461d711893edef07d3cedf33c4784e",
                "member_since": "2021-03-23",
                "name": "[BELGA] Belgium pool with donation to charity"
+            },
+            "51": {
+               "pool_id": "41ddaaf2303176365dc36a58483aa8aba694da490d04d84783d418e1",
+               "member_since": "2021-03-23",
+               "name": "[KNGHT] Knights of Cardano"
             }
         }
     }
