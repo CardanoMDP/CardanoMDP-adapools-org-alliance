@@ -309,7 +309,12 @@
                "pool_id": "2dabd15e4759334738940a65e06b6589f674a29347db0a36d75a5d36",
                "member_since": "2021-03-28",
                "name": "[SUDTI] Southtyrolpool"
-            }
+            },
+            "57": {
+               "pool_id": "4dbdfb68de96a563719f7df2b3cf7c98fb547a3e7edca2a547d35852",
+               "member_since": "2021-03-29",
+               "name": "[WISH] Wish Pool"
+            }        
         }
     }
 }
