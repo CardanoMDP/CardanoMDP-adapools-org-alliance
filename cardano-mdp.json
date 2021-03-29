@@ -289,6 +289,11 @@
                "pool_id": "111646b0848804b1c0ff51888432c9c4b0b0aa3b55f11ecbd0e36624",
                "member_since": "2021-03-23",
                "name": "[PSYA] PsyADA - Psychedelic Cardano Stake Pool"
+            },
+            "53": {
+               "pool_id": "0688dfbb3c11169ab8cd98cb7f00ddff3cc8d915c297adfb8484de3d",
+               "member_since": "2021-03-28",
+               "name": "[GR8FL] Grateful Pool"
             }
         }
     }
