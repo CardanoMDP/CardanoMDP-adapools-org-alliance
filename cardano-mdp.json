@@ -294,11 +294,16 @@
                "pool_id": "111646b0848804b1c0ff51888432c9c4b0b0aa3b55f11ecbd0e36624",
                "member_since": "2021-03-23",
                "name": "[PSYA] PsyADA - Psychedelic Cardano Stake Pool"
-            }
-            "53": {
+            },
+            "54": {
                "pool_id": "c8db17906201ab3665930723836d0ca4efa1e7bca13066f3edcf980d",
                "member_since": "2021-02-12",
                "name": "[CARMA] Carma Pool"
+            },
+            "55": {
+               "pool_id": "1d1a0727f1cae44f801091fe2b80d5589f3ffed24c602a8df7cdb2a3",
+               "member_since": "2021-03-28",
+               "name": "[ACOL] Ada CountessOfLovelace with donation to support Beekeeping"
             }
         }
     }
