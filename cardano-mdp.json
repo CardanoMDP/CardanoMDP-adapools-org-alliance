@@ -295,6 +295,11 @@
                "member_since": "2021-03-23",
                "name": "[PSYA] PsyADA - Psychedelic Cardano Stake Pool"
             }
+            "53": {
+               "pool_id": "c8db17906201ab3665930723836d0ca4efa1e7bca13066f3edcf980d",
+               "member_since": "2021-02-12",
+               "name": "[CARMA] Carma Pool"
+            }
         }
     }
 }
