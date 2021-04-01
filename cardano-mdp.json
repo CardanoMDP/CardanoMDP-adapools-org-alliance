@@ -309,6 +309,11 @@
                "pool_id": "2dabd15e4759334738940a65e06b6589f674a29347db0a36d75a5d36",
                "member_since": "2021-03-28",
                "name": "[SUDTI] Southtyrolpool"
+            },
+            "57": {
+               "pool_id": "075a870caa0a0cf20a3c2cf514be05e2064ef1ba71b2381e8f16a09e",
+               "member_since": "2021-04-01",
+               "name": "[VITAL] Responsible Staking"
             }
         }
     }
