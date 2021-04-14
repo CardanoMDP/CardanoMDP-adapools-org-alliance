@@ -314,6 +314,16 @@
                "pool_id": "0688dfbb3c11169ab8cd98cb7f00ddff3cc8d915c297adfb8484de3d",
                "member_since": "2021-03-28",
                "name": "[GR8FL] Grateful Pool"
+            },
+            "58": {
+               "pool_id": "08635d4c628b1d427241621855fe2cbb66bce416069b725921a4285a",
+               "member_since": "2021-03-08",
+               "name": "[GACHI] Gachi Pool"
+            },
+            "59": {
+               "pool_id": "f33738494ea4e7a1bc60c57981ea9468c80ba83ec4a921ed6d295cba",
+               "member_since": "2021-03-15",
+               "name": "[A2Z] A2Z Pool"
             }
         }
     }
