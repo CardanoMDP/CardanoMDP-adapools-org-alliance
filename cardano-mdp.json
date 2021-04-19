@@ -349,6 +349,11 @@
                "pool_id": "075a870caa0a0cf20a3c2cf514be05e2064ef1ba71b2381e8f16a09e",
                "member_since": "2021-04-01",
                "name": "[VITAL] Responsible Staking"
+            },
+             "65": {
+               "pool_id": "a2a8d3800e2e244b62c0b15a8168db3372cde8e2240222bfb8a1c356",
+               "member_since": "2021-04-04",
+               "name": "[MED] Medical Pool"
             }
         }
     }
