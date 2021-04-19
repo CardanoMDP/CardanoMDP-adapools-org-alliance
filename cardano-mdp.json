@@ -393,7 +393,12 @@
              "73": {
                "pool_id": "pool1klwddp9hysrplwmkaa8h3d65rg9qtz4hhpsw7uvz3e0pj8r3lrg",
                "member_since": "2021-04-14",
-               "name": "[PECHY] 🍑Peachy Stake Pool🍑"     
+               "name": "[PECHY] 🍑Peachy Stake Pool🍑"   
+            },
+             "74": {  
+               "pool_id": "8875e01215177b4506e9644ad6f9bda0aea6306ad217e4bb6653e1f9",
+               "member_since": "2021-04-14",
+               "name": "[ASTRO] ASTROPOOL"   
             }
         }
     }
