@@ -369,6 +369,16 @@
                "pool_id": "173fc6e5c2a006c179dae5895c1f68c1d598dae63a4eec2f4e25598b",
                "member_since": "2021-04-07",
                "name": "[HUMAN] Magneto Staking Pool"
+            },
+             "69": {
+               "pool_id": "dad893073815ca8b225554a2fc5048e366bd65938551323fc13cf7f5",
+               "member_since": "2021-04-13",
+               "name": "[DAD] Stakes Pool"
+            },
+             "70": {
+                "pool_id": "b046bd7ea0e09f16dc063c9ca5402d930346da176ce74d799fc98169",
+                "member_since": "2021-04-13",
+                "name": "[WIFE] Wife Pool"
             }
         }
     }
