@@ -354,6 +354,11 @@
                "pool_id": "a2a8d3800e2e244b62c0b15a8168db3372cde8e2240222bfb8a1c356",
                "member_since": "2021-04-04",
                "name": "[MED] Medical Pool"
+            },
+             "66": {
+               "pool_id": "93728a5a67dfbcb3fa2ce2425bac852a7ef4c6fc624fc113f6511a2a",
+               "member_since": "2021-04-07",
+               "name": "[RETRO] Retro Stake Pool"
             }
         }
     }
