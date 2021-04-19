@@ -324,7 +324,12 @@
                "pool_id": "f799b4b4418b3b668697d6c71bafecf23f85196f264286f462c3e959",
                "member_since": "2021-04-14",
                "name": "[SAVE] Get High Rewards & Save Biodiversity"
-            }
+            },
+            "60": {
+               "pool_id": "4dbdfb68de96a563719f7df2b3cf7c98fb547a3e7edca2a547d35852",
+               "member_since": "2021-03-29",
+               "name": "[WISH] Wish Pool"
+            }    
         }
     }
 }
