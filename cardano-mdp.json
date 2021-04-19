@@ -311,6 +311,41 @@
                "name": "[SUDTI] Southtyrolpool"
             },
             "57": {
+               "pool_id": "0688dfbb3c11169ab8cd98cb7f00ddff3cc8d915c297adfb8484de3d",
+               "member_since": "2021-03-28",
+               "name": "[GR8FL] Grateful Pool"
+            },
+            "58": {
+               "pool_id": "c83beb18d532234c72a304ab935982be670c22e771b227a3febc3a82",
+               "member_since": "2021-04-13",
+               "name": "[PILOT] Pilot Pool"
+            },
+            "59": {
+               "pool_id": "f799b4b4418b3b668697d6c71bafecf23f85196f264286f462c3e959",
+               "member_since": "2021-04-14",
+               "name": "[SAVE] Get High Rewards & Save Biodiversity"
+            },
+            "60": {
+               "pool_id": "4dbdfb68de96a563719f7df2b3cf7c98fb547a3e7edca2a547d35852",
+               "member_since": "2021-03-29",
+               "name": "[WISH] Wish Pool"
+            },
+            "61": {
+               "pool_id": "pool1ezskfrplms9h6hxcw7adqghmfrtpn6cy7ax8ajrm5kn0crvl6sn",
+               "member_since": "2021-03-29",
+               "name": "[IPIB] Italians Pool It Better"
+            },
+            "62": {
+               "pool_id": "2ce9bfc4e0a732d21ec8739cbfc3b10957b4e3297fd320d556f48ada",
+               "member_since": "2021-03-31",
+               "name": "[TAILS] Metro Mermaids"
+            },
+            "63": {
+               "pool_id": "93ca5c2f1eb63054f7c768a807408a43e65d7c68fe56e330db20af51",
+               "member_since": "2021-03-31",
+               "name": "[PRIDE] Stake With Pride"
+            },
+            "64": {
                "pool_id": "075a870caa0a0cf20a3c2cf514be05e2064ef1ba71b2381e8f16a09e",
                "member_since": "2021-04-01",
                "name": "[VITAL] Responsible Staking"
