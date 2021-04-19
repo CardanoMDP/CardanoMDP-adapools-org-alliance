@@ -364,6 +364,11 @@
                "pool_id": "a7ea1f8a2357f74354ff178e1bf8173b8e5137d970d1a5218e67b9eb",
                "member_since": "2021-04-08",
                "name": "[CPAT] CryptoPatriot Pool"
+            },
+             "68": {
+               "pool_id": "173fc6e5c2a006c179dae5895c1f68c1d598dae63a4eec2f4e25598b",
+               "member_since": "2021-04-07",
+               "name": "[HUMAN] Magneto Staking Pool"
             }
         }
     }
