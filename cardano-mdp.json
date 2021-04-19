@@ -345,6 +345,11 @@
                "member_since": "2021-03-31",
                "name": "[PRIDE] Stake With Pride"
             },
+            "64": {
+               "pool_id": "075a870caa0a0cf20a3c2cf514be05e2064ef1ba71b2381e8f16a09e",
+               "member_since": "2021-04-01",
+               "name": "[VITAL] Responsible Staking"
+            }
         }
     }
 }
