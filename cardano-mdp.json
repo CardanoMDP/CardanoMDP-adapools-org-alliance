@@ -359,6 +359,11 @@
                "pool_id": "93728a5a67dfbcb3fa2ce2425bac852a7ef4c6fc624fc113f6511a2a",
                "member_since": "2021-04-07",
                "name": "[RETRO] Retro Stake Pool"
+            },
+             "67": {
+               "pool_id": "a7ea1f8a2357f74354ff178e1bf8173b8e5137d970d1a5218e67b9eb",
+               "member_since": "2021-04-08",
+               "name": "[CPAT] CryptoPatriot Pool"
             }
         }
     }
