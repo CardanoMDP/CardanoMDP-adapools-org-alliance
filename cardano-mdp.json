@@ -329,7 +329,12 @@
                "pool_id": "4dbdfb68de96a563719f7df2b3cf7c98fb547a3e7edca2a547d35852",
                "member_since": "2021-03-29",
                "name": "[WISH] Wish Pool"
-            }    
+            },
+            "61": {
+               "pool_id": "pool1ezskfrplms9h6hxcw7adqghmfrtpn6cy7ax8ajrm5kn0crvl6sn",
+               "member_since": "2021-03-29",
+               "name": "[IPIB] Italians Pool It Better"
+            }
         }
     }
 }
