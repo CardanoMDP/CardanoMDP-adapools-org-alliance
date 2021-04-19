@@ -379,6 +379,16 @@
                 "pool_id": "b046bd7ea0e09f16dc063c9ca5402d930346da176ce74d799fc98169",
                 "member_since": "2021-04-13",
                 "name": "[WIFE] Wife Pool"
+            },
+             "71": {
+             "pool_id": "08635d4c628b1d427241621855fe2cbb66bce416069b725921a4285a",
+               "member_since": "2021-04-15",
+               "name": "[GACHI] Gachi Pool"
+            },
+             "72": {
+               "pool_id": "f33738494ea4e7a1bc60c57981ea9468c80ba83ec4a921ed6d295cba",
+               "member_since": "2021-04-15",
+               "name": "[A2Z] A2Z Pool"
             }
         }
     }
