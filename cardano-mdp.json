@@ -399,6 +399,11 @@
                "pool_id": "8875e01215177b4506e9644ad6f9bda0aea6306ad217e4bb6653e1f9",
                "member_since": "2021-04-14",
                "name": "[ASTRO] ASTROPOOL"   
+            },
+             "75": {  
+               "pool_id": "af6254651bde1e60fb9160d5f321010de5b2fa794e9b1a1163e592e0",
+               "member_since": "2021-04-14",
+               "name": "ACID Stake Pool"
             }
         }
     }
