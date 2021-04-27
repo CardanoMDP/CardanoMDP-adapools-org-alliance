@@ -404,6 +404,11 @@
                "pool_id": "af6254651bde1e60fb9160d5f321010de5b2fa794e9b1a1163e592e0",
                "member_since": "2021-04-14",
                "name": "ACID Stake Pool"
+            },
+             "76": {  
+               "pool_id": "19a7295abe2d83e4c5876ef30f21a44ca3877107fe5529a926cc1647",
+               "member_since": "2021-04-27",
+               "name": "[DONO] Donation Pool"
             }
         }
     }
