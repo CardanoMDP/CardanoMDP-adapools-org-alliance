@@ -220,11 +220,6 @@
                 "member_since": "2021-12-01",
                 "name": "[LAVAN] NOW LAVAN"
             },
-            "39": {
-               "pool_id": "16d216d074625d2dbb75c20948e4d9a1efe0fe79c4c915d4b5391de1",
-               "member_since": "2021-02-01",
-               "name": "[ALPS] ALPS - Stake Pool"
-            },
             "40": {    
                "pool_id": "ea7cdd8918204b6c53e41ac6b0c319a1ffa95312660eeeb2ced8be3a",
                "member_since": "2021-02-04",
@@ -395,17 +390,32 @@
                "member_since": "2021-04-14",
                "name": "[PECHY] 🍑Peachy Stake Pool🍑"   
             },
-             "74": {  
+             "74": {
                "pool_id": "8875e01215177b4506e9644ad6f9bda0aea6306ad217e4bb6653e1f9",
                "member_since": "2021-04-14",
                "name": "[ASTRO] ASTROPOOL"   
             },
-             "75": {  
+             "75": {
                "pool_id": "af6254651bde1e60fb9160d5f321010de5b2fa794e9b1a1163e592e0",
                "member_since": "2021-04-14",
                "name": "ACID Stake Pool"
             },
-             "76": {  
+             "76": {
+               "pool_id": "pool1grz62pdyyakffeymsjxpkz4x9382y3zhfa8zu28tk2fpqxm6p5l",
+               "member_since": "2021-04-30",
+               "name": "[KAWAN] Kawanua Stake Pool"
+            },
+            "77": {
+               "pool_id": "pool1lkuwrel3s8er6v0snw69gumsaugydz9n0vl87n7mygh576mwcy0",
+               "member_since": "2021-04-20",
+               "name": "ATFFpool"
+            },
+             "78": {
+               "pool_id": "19a7295abe2d83e4c5876ef30f21a44ca3877107fe5529a926cc1647",
+               "member_since": "2021-04-27",
+               "name": "[DONO] Donation Pool"
+            },
+             "79": {  
                "pool_id": "2b5ac5073e3e8071024263a8fe69e4577bcf3bfed41110ced8ac8aa7",
                "member_since": "2021-04-27",
                "name": "NEXUS Stake Pool"
