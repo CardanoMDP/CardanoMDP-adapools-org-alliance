@@ -419,6 +419,11 @@
                "pool_id": "2b5ac5073e3e8071024263a8fe69e4577bcf3bfed41110ced8ac8aa7",
                "member_since": "2021-04-27",
                "name": "NEXUS Stake Pool"
+            },
+            "80": {
+                "pool_id": "71b00c23502112d4c634e325f28c9ade2a4ba4ec251677d306ae6b7b",
+                "member_since": "2020-05-10",
+                "name": "Norb Pool"
             }
         }
     }
