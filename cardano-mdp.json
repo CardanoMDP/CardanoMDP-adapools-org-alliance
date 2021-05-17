@@ -419,6 +419,11 @@
                "pool_id": "2b5ac5073e3e8071024263a8fe69e4577bcf3bfed41110ced8ac8aa7",
                "member_since": "2021-04-27",
                "name": "NEXUS Stake Pool"
+            },
+             "81": {  
+               "pool_id": "d0507160a231932b401c64a1afc8dc21e682993e2e6c0cdba129fa77",
+               "member_since": "2021-05-17",
+               "name": "Adazul Pool"
             }
         }
     }
