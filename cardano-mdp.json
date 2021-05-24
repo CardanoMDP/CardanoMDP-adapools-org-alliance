@@ -419,6 +419,11 @@
                "pool_id": "2b5ac5073e3e8071024263a8fe69e4577bcf3bfed41110ced8ac8aa7",
                "member_since": "2021-04-27",
                "name": "NEXUS Stake Pool"
+            },
+             "80": {  
+               "pool_id": "d28e4ae3848720195f09becd15e6985b54cbf3b62e52bf53c5af8501",
+               "member_since": "2021-05-24",
+               "name": "[DEN] DenAdaPool"
             }
         }
     }
