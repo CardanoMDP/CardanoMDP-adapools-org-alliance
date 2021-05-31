@@ -220,198 +220,227 @@
                 "member_since": "2021-12-01",
                 "name": "[LAVAN] NOW LAVAN"
             },
-            "39": {
-               "pool_id": "16d216d074625d2dbb75c20948e4d9a1efe0fe79c4c915d4b5391de1",
-               "member_since": "2021-02-01",
-               "name": "[ALPS] ALPS - Stake Pool"
-            },
-            "40": {    
+            "39": {    
                "pool_id": "ea7cdd8918204b6c53e41ac6b0c319a1ffa95312660eeeb2ced8be3a",
                "member_since": "2021-02-04",
                "name": "[SHARE] SHARE Stake Pool"
             },
-            "41": {    
+            "40": {    
                "pool_id": "8fa4537044c02b232430dca78f51ca74c22d1ed7fb990be8b65d2794",
                "member_since": "2021-02-04",
                "name": "[WHITE] The White Project"
 
             },
-            "42": {    
+            "41": {    
                "pool_id": "5790d62ab1ba703e861fe800f9cefaaf1485c3ca42c6ba9ce74690a1",
                "member_since": "2021-01-01",
                "name": "[TTS17] Time To Stake - Time To Support Decentralization!"
             },
-            "43": {    
-               "pool_id": "pool19p6tdq9urs5kcx7a4mhp8ldc3j3t3ea4xlz5nlyesa35cqhheul",
+            "42": {    
+               "pool_id": "2874b680bc1c296c1bddaeee13fdb88ca2b8e7b537c549fc9987634c",
                "member_since": "2021-03-23",
                "name": "[PMLX] ProMLX Stake Pool"
             },
-            "44": {
+            "43": {
                "pool_id": "0409605581b12bb96d1f5c90570a481a7a828f331ea9e2b5e82311a9",
                "member_since": "2021-03-24",
                "name": "[WLP] Wildlife Pool"
             },
-            "45": {    
+            "44": {    
                "pool_id": "0a423fa44f23b13cba59474427d11746136672af66b2d80b4499dd1d",
                "member_since": "2021-03-24",
                "name": "[ADI] Cardanesia"
             },
-            "46": {
+            "45": {
                "pool_id": "f1ae552b032c2d87a416f4067eaf4636b3fe5e80230a1f63aa33f6bc",
                "member_since": "2021-02-15",
                "name": "[MMA] MMA Stake Pool"
             },
-            "47": {    
+            "46": {    
                "pool_id": "1d2af62e81695d4f6530a5750dfc10c0992415909c3e0b36f4223669",
                "member_since": "2021-03-24",
                "name": "[OFFSE] Carbon Offset Pool"
             },
-            "48": {
+            "47": {
                "pool_id": "420d1ed89bb8bf46f867936b8c2a7b9b3e759d161e46d561cc6bd985",
                "member_since": "2021-03-22",
                "name": "[SHKTI] Shakti Pool"
             },
-            "49": {    
+            "48": {    
                "pool_id": "7d59eb08203e86f74d3011c7e967ed50fbd0954001eab1cb00b69422",
                "member_since": "2021-03-23",
                "name": "SEAL"
             },
-            "50": {
+            "49": {
               "pool_id": "fcc8a499e4711c9b23df11b9f3a39584ff47bb1cff7fb764f6f5ed9c",
               "member_since": "2021-03-24",
               "name": "[FOOD] FoodPool"
             },
-            "51": {    
+            "50": {    
                "pool_id": "afd458ac6ca85bbf719e0a7930461d711893edef07d3cedf33c4784e",
                "member_since": "2021-03-23",
                "name": "[BELGA] Belgium pool with donation to charity"
             },
-            "52": {
+            "51": {
                "pool_id": "41ddaaf2303176365dc36a58483aa8aba694da490d04d84783d418e1",
                "member_since": "2021-03-23",
                "name": "[KNGHT] Knights of Cardano"
             },
-            "53": {
+            "52": {
                "pool_id": "111646b0848804b1c0ff51888432c9c4b0b0aa3b55f11ecbd0e36624",
                "member_since": "2021-03-23",
                "name": "[PSYA] PsyADA - Psychedelic Cardano Stake Pool"
             },
-            "54": {
+            "53": {
                "pool_id": "c8db17906201ab3665930723836d0ca4efa1e7bca13066f3edcf980d",
                "member_since": "2021-02-12",
                "name": "[CARMA] Carma Pool"
             },
-            "55": {
+            "54": {
                "pool_id": "1d1a0727f1cae44f801091fe2b80d5589f3ffed24c602a8df7cdb2a3",
                "member_since": "2021-03-28",
                "name": "[ACOL] Ada CountessOfLovelace with donation to support Beekeeping"
             },
-            "56": {
+            "55": {
                "pool_id": "2dabd15e4759334738940a65e06b6589f674a29347db0a36d75a5d36",
                "member_since": "2021-03-28",
                "name": "[SUDTI] Southtyrolpool"
             },
-            "57": {
+            "56": {
                "pool_id": "0688dfbb3c11169ab8cd98cb7f00ddff3cc8d915c297adfb8484de3d",
                "member_since": "2021-03-28",
                "name": "[GR8FL] Grateful Pool"
             },
-            "58": {
+            "57": {
                "pool_id": "c83beb18d532234c72a304ab935982be670c22e771b227a3febc3a82",
                "member_since": "2021-04-13",
                "name": "[PILOT] Pilot Pool"
             },
-            "59": {
+            "58": {
                "pool_id": "f799b4b4418b3b668697d6c71bafecf23f85196f264286f462c3e959",
                "member_since": "2021-04-14",
                "name": "[SAVE] Get High Rewards & Save Biodiversity"
             },
-            "60": {
+            "59": {
                "pool_id": "4dbdfb68de96a563719f7df2b3cf7c98fb547a3e7edca2a547d35852",
                "member_since": "2021-03-29",
                "name": "[WISH] Wish Pool"
             },
-            "61": {
-               "pool_id": "pool1ezskfrplms9h6hxcw7adqghmfrtpn6cy7ax8ajrm5kn0crvl6sn",
+            "60": {
+               "pool_id": "c8a1648c3fdc0b7d5cd877bad022fb48d619eb04f74c7ec87ba5a6fc",
                "member_since": "2021-03-29",
                "name": "[IPIB] Italians Pool It Better"
             },
-            "62": {
+            "61": {
                "pool_id": "2ce9bfc4e0a732d21ec8739cbfc3b10957b4e3297fd320d556f48ada",
                "member_since": "2021-03-31",
                "name": "[TAILS] Metro Mermaids"
             },
-            "63": {
+            "62": {
                "pool_id": "93ca5c2f1eb63054f7c768a807408a43e65d7c68fe56e330db20af51",
                "member_since": "2021-03-31",
                "name": "[PRIDE] Stake With Pride"
             },
-            "64": {
+            "63": {
                "pool_id": "075a870caa0a0cf20a3c2cf514be05e2064ef1ba71b2381e8f16a09e",
                "member_since": "2021-04-01",
                "name": "[VITAL] Responsible Staking"
             },
-             "65": {
+             "64": {
                "pool_id": "a2a8d3800e2e244b62c0b15a8168db3372cde8e2240222bfb8a1c356",
                "member_since": "2021-04-04",
                "name": "[MED] Medical Pool"
             },
-             "66": {
+             "65": {
                "pool_id": "93728a5a67dfbcb3fa2ce2425bac852a7ef4c6fc624fc113f6511a2a",
                "member_since": "2021-04-07",
                "name": "[RETRO] Retro Stake Pool"
             },
-             "67": {
+             "66": {
                "pool_id": "a7ea1f8a2357f74354ff178e1bf8173b8e5137d970d1a5218e67b9eb",
                "member_since": "2021-04-08",
                "name": "[CPAT] CryptoPatriot Pool"
             },
-             "68": {
+             "67": {
                "pool_id": "173fc6e5c2a006c179dae5895c1f68c1d598dae63a4eec2f4e25598b",
                "member_since": "2021-04-07",
                "name": "[HUMAN] Magneto Staking Pool"
             },
-             "69": {
+             "68": {
                "pool_id": "dad893073815ca8b225554a2fc5048e366bd65938551323fc13cf7f5",
                "member_since": "2021-04-13",
                "name": "[DAD] Stakes Pool"
             },
-             "70": {
+             "69": {
                 "pool_id": "b046bd7ea0e09f16dc063c9ca5402d930346da176ce74d799fc98169",
                 "member_since": "2021-04-13",
                 "name": "[WIFE] Wife Pool"
             },
-             "71": {
+             "70": {
              "pool_id": "08635d4c628b1d427241621855fe2cbb66bce416069b725921a4285a",
                "member_since": "2021-04-15",
                "name": "[GACHI] Gachi Pool"
             },
-             "72": {
+             "71": {
                "pool_id": "f33738494ea4e7a1bc60c57981ea9468c80ba83ec4a921ed6d295cba",
                "member_since": "2021-04-15",
                "name": "[A2Z] A2Z Pool"
             },
-             "73": {
+             "72": {
                "pool_id": "b7dcd684b724061fbb76ef4f78b7541a0a058ab7b860ef71828e5e19",
                "member_since": "2021-04-14",
                "name": "[PECHY] 🍑Peachy Stake Pool🍑"   
             },
-             "74": {  
+             "73": {
                "pool_id": "8875e01215177b4506e9644ad6f9bda0aea6306ad217e4bb6653e1f9",
                "member_since": "2021-04-14",
                "name": "[ASTRO] ASTROPOOL"   
             },
-             "75": {  
+             "74": {
                "pool_id": "af6254651bde1e60fb9160d5f321010de5b2fa794e9b1a1163e592e0",
                "member_since": "2021-04-14",
                "name": "ACID Stake Pool"
             },
-            "76": {    
+             "75": {
+               "pool_id": "40c5a505a4276c94e49b848c1b0aa62c4ea244574f4e2e28ebb29210",
+               "member_since": "2021-04-30",
+               "name": "[KAWAN] Kawanua Stake Pool"
+            },
+            "76": {
+               "pool_id": "fdb8e1e7f181f23d31f09bb4547370ef104688b37b3e7f4fdb222f4f",
+               "member_since": "2021-04-20",
+               "name": "ATFFpool"
+            },
+             "77": {
+               "pool_id": "19a7295abe2d83e4c5876ef30f21a44ca3877107fe5529a926cc1647",
+               "member_since": "2021-04-27",
+               "name": "[DONO] Donation Pool"
+            },
+             "78": {  
+               "pool_id": "2b5ac5073e3e8071024263a8fe69e4577bcf3bfed41110ced8ac8aa7",
+               "member_since": "2021-04-27",
+               "name": "NEXUS Stake Pool"
+            },
+             "80": {  
+               "pool_id": "32f6df36b4625d51971dedb0cabd20a6c8577165d5f15530594dbc6b",
+               "member_since": "2021-05-10",
+               "name": "Solidarity Pool for Social Justice [SOLID]"
+            },        
+             "81": {
+               "pool_id": "71b00c23502112d4c634e325f28c9ade2a4ba4ec251677d306ae6b7b",
+               "member_since": "2021-05-10",
+               "name": "[NORB] Norb Pool"
+            },            
+             "82": {  
+               "pool_id": "d0507160a231932b401c64a1afc8dc21e682993e2e6c0cdba129fa77",
+               "member_since": "2021-05-17",
+               "name": "Adazul Pool"
+             },
+              "83": {    
                "pool_id": "b45c1860e038baa0642b352ccf447ed5e14430342a11dd75bae52f39",
                "member_since": "2021-02-14",
                "name": "[CPU] Cardano Pools United"
             }
         }
-
     }
 }
