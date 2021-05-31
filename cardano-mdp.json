@@ -419,7 +419,12 @@
                "pool_id": "2b5ac5073e3e8071024263a8fe69e4577bcf3bfed41110ced8ac8aa7",
                "member_since": "2021-04-27",
                "name": "NEXUS Stake Pool"
-            }
+            },
+             "80": {  
+               "pool_id": "32f6df36b4625d51971dedb0cabd20a6c8577165d5f15530594dbc6b",
+               "member_since": "2021-05-10",
+               "name": "Solidarity Pool for Social Justice [SOLID]"
+            }            
         }
     }
 }
