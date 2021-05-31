@@ -326,7 +326,7 @@
                "name": "[WISH] Wish Pool"
             },
             "60": {
-               "pool_id": "pool1ezskfrplms9h6hxcw7adqghmfrtpn6cy7ax8ajrm5kn0crvl6sn",
+               "pool_id": "c8a1648c3fdc0b7d5cd877bad022fb48d619eb04f74c7ec87ba5a6fc",
                "member_since": "2021-03-29",
                "name": "[IPIB] Italians Pool It Better"
             },
@@ -401,12 +401,12 @@
                "name": "ACID Stake Pool"
             },
              "75": {
-               "pool_id": "pool1grz62pdyyakffeymsjxpkz4x9382y3zhfa8zu28tk2fpqxm6p5l",
+               "pool_id": "40c5a505a4276c94e49b848c1b0aa62c4ea244574f4e2e28ebb29210",
                "member_since": "2021-04-30",
                "name": "[KAWAN] Kawanua Stake Pool"
             },
             "76": {
-               "pool_id": "pool1lkuwrel3s8er6v0snw69gumsaugydz9n0vl87n7mygh576mwcy0",
+               "pool_id": "fdb8e1e7f181f23d31f09bb4547370ef104688b37b3e7f4fdb222f4f",
                "member_since": "2021-04-20",
                "name": "ATFFpool"
             },
