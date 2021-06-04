@@ -432,6 +432,11 @@
                "pool_id": "628e6fdeda9732cbc61079581cf8e2e7b06d6f3219ec7cccb5861ba6",
                "member_since": "2021-06-01",
                "name": "[BLKBX] Black Box"
+            },
+             "82": {
+               "pool_id": "07175f6efa70645146007138a4fdd00b9e8db2a73baecdd704ebccfd",
+               "member_since": "2021-06-04",
+               "name": "[TERO] TERO - Cardano Stake Pool"
             }
         }
     }
