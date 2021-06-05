@@ -432,6 +432,11 @@
                "pool_id": "628e6fdeda9732cbc61079581cf8e2e7b06d6f3219ec7cccb5861ba6",
                "member_since": "2021-06-01",
                "name": "[BLKBX] Black Box"
+            },
+            "82": {
+               "pool_id": "51c46851f53579f04ac4dfe8cde1182976d78b058abd4f1f7a59d4b3",
+               "member_since": "2021-06-05",
+               "name": "[CAPYB] Capybaral Pool"
             }
         }
     }
