@@ -447,6 +447,11 @@
                "pool_id": "f0e3c8d48efb750cdf256b68babc880787bc688972acfbbee1ffc537",
                "member_since": "2021-06-03",
                "name": "[ADAR] ADA Rewards"
+            },
+             "85": {
+               "pool_id": "51c46851f53579f04ac4dfe8cde1182976d78b058abd4f1f7a59d4b3",
+               "member_since": "2021-06-05",
+               "name": "[CAPYB] Capybaral Pool"
             }            
         }
     }
