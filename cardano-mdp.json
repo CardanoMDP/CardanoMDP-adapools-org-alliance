@@ -472,6 +472,11 @@
               "pool_id": "5707e4254180d481a4f1e690be0c2c54b3a618051d907df7e4434c0b",
               "member_since": "2021-07-08",
               "name": "[ST4NA] Stake for Nature"
+            },
+            "90": {    
+               "pool_id": "a932273ab880015990a677eb4cc598b306df0ece54aa98d1eefab600",
+               "member_since": "2021-07-16",
+               "name": "[MnM] Minimum Fees Charity Pool"
             }
         }
     }
