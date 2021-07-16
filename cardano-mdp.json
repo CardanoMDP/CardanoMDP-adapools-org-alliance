@@ -463,10 +463,15 @@
                "member_since": "2021-06-19",
                "name": "[LGBTQ] LGBTQ pride pool. Follow the rainbow!"
             },
-             "88": {    
-               "pool_id": "5707e4254180d481a4f1e690be0c2c54b3a618051d907df7e4434c0b",
-               "member_since": "2021-07-08",
-               "name": "[ST4NA] Stake for Nature"
+            "88": {
+              "pool_id": "0e3f803915a37af7b6a121409192363e9de658524276c20c26f511ee",
+              "member_since": "2021-07-04",
+              "name": "[OZZY] Ozzy pool"
+            },
+            "89": {    
+              "pool_id": "5707e4254180d481a4f1e690be0c2c54b3a618051d907df7e4434c0b",
+              "member_since": "2021-07-08",
+              "name": "[ST4NA] Stake for Nature"
             }
         }
     }
