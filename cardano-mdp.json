@@ -477,6 +477,11 @@
                "pool_id": "a932273ab880015990a677eb4cc598b306df0ece54aa98d1eefab600",
                "member_since": "2021-07-16",
                "name": "[MnM] Minimum Fees Charity Pool"
+            },
+            "91": {    
+               "pool_id": "effc78f36adf09718712f78a4ae84f02e6d7cd79e3c9492fcaa2a7f5",
+               "member_since": "2021-07-18",
+               "name": "[GOLGI] italian scientific stake pool for investment, charity and education"
             }
         }
     }
