@@ -477,6 +477,11 @@
                "pool_id": "a932273ab880015990a677eb4cc598b306df0ece54aa98d1eefab600",
                "member_since": "2021-07-16",
                "name": "[MnM] Minimum Fees Charity Pool"
+            },
+            "91": {    
+               "pool_id": "74d66da57368e12f12bd07f303da7f8cd3c2494af9e32e4dea210c58",
+               "member_since": "2021-07-19",
+               "name": "[CB1] Coudre Bros"
             }
         }
     }
