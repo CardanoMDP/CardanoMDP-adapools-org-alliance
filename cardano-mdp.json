@@ -478,6 +478,12 @@
                "member_since": "2021-07-16",
                "name": "[MnM] Minimum Fees Charity Pool"
             }
+            ,
+            "91": {    
+               "pool_id": "cb87bf12be816ecd5cd6e167442670e4024d85e0005c8623651b371f",
+               "member_since": "2021-04-09",
+               "name": "[A4G] ADA4Good"
+            }
         }
     }
 }
