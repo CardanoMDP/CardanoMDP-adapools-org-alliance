@@ -482,6 +482,16 @@
                "pool_id": "5e7ff9707b194d0a8abc37b35d6ca34112faaa777032e2268b2f8d07",
                "member_since": "2021-07-17",
                "name": "AVENE Stake Pool"
+            },
+            "92": {    
+               "pool_id": "075578defd7ee97cbeaa2937e5819099cb3835ac9f9c8b1a2c3a3578",
+               "member_since": "2021-07-16",
+               "name": "[SNSKY] Sam's North SKY Pool: Planting Trees"
+            },
+            "93": {    
+               "pool_id": "cb87bf12be816ecd5cd6e167442670e4024d85e0005c8623651b371f",
+               "member_since": "2021-04-09",
+               "name": "[A4G] ADA4Good"
             }
         }
     }
