@@ -497,6 +497,11 @@
                "pool_id": "effc78f36adf09718712f78a4ae84f02e6d7cd79e3c9492fcaa2a7f5",
                "member_since": "2021-07-18",
                "name": "[GOLGI] italian scientific stake pool for investment, charity and education"
+            },
+            "95": {    
+               "pool_id": "297b5acd8b90df8a1bfd98aa1a61f323b87fead4b8a2b55f2fb83ce6",
+               "member_since": "2021-07-18",
+               "name": "[ALoop] AdaLoop"
             }
         }
     }
