@@ -477,12 +477,16 @@
                "pool_id": "a932273ab880015990a677eb4cc598b306df0ece54aa98d1eefab600",
                "member_since": "2021-07-16",
                "name": "[MnM] Minimum Fees Charity Pool"
-            }
-            ,
+            },
             "91": {    
                "pool_id": "cb87bf12be816ecd5cd6e167442670e4024d85e0005c8623651b371f",
                "member_since": "2021-04-09",
                "name": "[A4G] ADA4Good"
+            },
+             "92": {    
+               "pool_id": "297b5acd8b90df8a1bfd98aa1a61f323b87fead4b8a2b55f2fb83ce6",
+               "member_since": "2021-06-06",
+               "name": "[ALoop] AdaLoop"
             }
         }
     }
