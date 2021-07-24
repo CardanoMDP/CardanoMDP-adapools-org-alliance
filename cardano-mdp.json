@@ -513,6 +513,11 @@
                "member_since": "2021-07-22",
                "name": "[MSTR] Maestro"
             },
+            "98": {    
+               "pool_id": "70ab9e73071c50927631a218137d53e765665a578b744feeae3c5d81",
+               "member_since": "2021-07-23",
+               "name": "[Faso] FasoPool"
+            }
         }
     }
 }
