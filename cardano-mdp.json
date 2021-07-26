@@ -512,6 +512,11 @@
                "pool_id": "abea730f5c32157c76c876597d0b7093d50754d0274d67c62d7434b9",
                "member_since": "2021-07-22",
                "name": "[MSTR] Maestro"
+            },
+            "98": {    
+               "pool_id": "a37460a9b761e67b18f0262ad18f80263f6b6d143c33a9873965ecd3",
+               "member_since": "2021-02-15",
+               "name": "[MAJOR] Major Pool"
             }
         }
     }
