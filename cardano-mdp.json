@@ -522,6 +522,11 @@
                "pool_id": "a37460a9b761e67b18f0262ad18f80263f6b6d143c33a9873965ecd3",
                "member_since": "2021-07-25",
                "name": "[MAJOR] Major Pool"
+            },
+            "100": {    
+               "pool_id": "70ab9e73071c50927631a218137d53e765665a578b744feeae3c5d81",
+               "member_since": "2021-07-23",
+               "name": "[Faso] FasoPool"
             }
         }
     }
