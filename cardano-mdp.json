@@ -513,10 +513,15 @@
                "member_since": "2021-07-22",
                "name": "[MSTR] Maestro"
             },
-            "98": {    
+            "98": {   
                "pool_id": "657a108e48baf24539e8760152a66b58c4dd02878a83e41ba5c590c8",
                "member_since": "2021-07-24",
                "name": "[ALAS] Cardano Pool"
+            }, 
+            "99": {    
+               "pool_id": "a37460a9b761e67b18f0262ad18f80263f6b6d143c33a9873965ecd3",
+               "member_since": "2021-07-25",
+               "name": "[MAJOR] Major Pool"
             }
         }
     }
