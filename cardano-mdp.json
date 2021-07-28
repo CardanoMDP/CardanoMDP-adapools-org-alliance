@@ -527,7 +527,12 @@
                "pool_id": "70ab9e73071c50927631a218137d53e765665a578b744feeae3c5d81",
                "member_since": "2021-07-23",
                "name": "[Faso] FasoPool"
-            }
+            },
+            "101": {    
+               "pool_id": "4d9333fceb79761fb826b22395c4bff84740fbfa8af232d6f6944eb7",
+               "member_since": "2021-07-28",
+               "name": "[FAM] Darkartopia Family"
+            }            
         }
     }
 }
