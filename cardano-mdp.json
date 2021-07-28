@@ -62,43 +62,43 @@
                 "pool_id": "0dda2d4271340a92116cb8032c16b49117b27752ab0ff8b3d6813021",
                 "member_since": "2021-01-16",
                 "name": "The Stake DINGO"
-           },
-           "8": {
+            },
+            "8": {
                 "pool_id": "079c374160b0ae34a5a20b8e95a5b5c8766239b2984f13d7ab962791",
                 "member_since": "2020-12-01",
                 "name": "Spectrum Pool [SPEC]"
-           },
-           "9": {
+            },
+            "9": {
                 "pool_id": "b98514bb7c8fe8efaa6762d6ae811ad2fbb783653f7af1aba12ba201",
                 "member_since": "2021-01-10",
                 "name": "ADA Trees"
-           },
-           "10": {
+            },
+            "10": {
                 "pool_id": "455778840915ea2ec843bfee7269c1e0963b08ce5d1cdf029e39cb59",
                 "member_since": "2021-01-15",
                 "name": "FEEL Stake Pool"
-           },
-           "11": {
+            },
+            "11": {
                 "pool_id": "1e4f8dc9672d16131da6533287e32ea100b34d67543ff7c7358c7b5e",
                 "member_since": "2021-01-01",
                 "name": "RISE"
-           },
-           "12": {
+            },
+            "12": {
                 "pool_id": "6f9ecffc4bc41068db87bd193e5842577df08a464cb7c001865c8b60",
                 "member_since": "2020-12-01",
                 "name": "LiverPool"
-           },
-           "13": {
+            },
+            "13": {
                 "pool_id": "80cb48c2953a78d25f69dbcea305fbcce0c520c25d401cd75a259cf1",
                 "member_since": "2020-12-01",
                 "name": "[AIR] ADABreathes"
-           },
-           "14": {
+            },
+            "14": {
                 "pool_id": "0db403b246e3eafac8407b42bf2719208a4e53dfd9a9884f275ef19a ",
                 "member_since": "2020-12-01",
                 "name": "[CABU] Cardano Abu"
-           },
-           "15": {
+            },
+            "15": {
                 "pool_id": "5059d31b0c8c11d6d2404266844e31f13dab05eae77815db8994a598",
                 "member_since": "2020-12-07",
                 "name": "SVRN ~ Commercial Sovereignty Restoration"
@@ -478,7 +478,57 @@
                "member_since": "2021-07-16",
                "name": "[MnM] Minimum Fees Charity Pool"
             },
-             "96": {    
+            "91": {
+               "pool_id": "5e7ff9707b194d0a8abc37b35d6ca34112faaa777032e2268b2f8d07",
+               "member_since": "2021-07-17",
+               "name": "AVENE Stake Pool"
+            },
+            "92": {    
+               "pool_id": "075578defd7ee97cbeaa2937e5819099cb3835ac9f9c8b1a2c3a3578",
+               "member_since": "2021-07-16",
+               "name": "[SNSKY] Sam's North SKY Pool: Planting Trees"
+            },
+            "93": {    
+               "pool_id": "cb87bf12be816ecd5cd6e167442670e4024d85e0005c8623651b371f",
+               "member_since": "2021-04-09",
+               "name": "[A4G] ADA4Good"
+            },
+            "94": {    
+               "pool_id": "effc78f36adf09718712f78a4ae84f02e6d7cd79e3c9492fcaa2a7f5",
+               "member_since": "2021-07-18",
+               "name": "[GOLGI] italian scientific stake pool for investment, charity and education"
+            },
+            "95": {    
+               "pool_id": "297b5acd8b90df8a1bfd98aa1a61f323b87fead4b8a2b55f2fb83ce6",
+               "member_since": "2021-07-18",
+               "name": "[ALoop] AdaLoop"
+            },
+            "96": {    
+               "pool_id": "74d66da57368e12f12bd07f303da7f8cd3c2494af9e32e4dea210c58",
+               "member_since": "2021-07-19",
+               "name": "[CB1] Coudre Bros"
+            },
+            "97": {    
+               "pool_id": "abea730f5c32157c76c876597d0b7093d50754d0274d67c62d7434b9",
+               "member_since": "2021-07-22",
+               "name": "[MSTR] Maestro"
+            },
+            "98": {   
+               "pool_id": "657a108e48baf24539e8760152a66b58c4dd02878a83e41ba5c590c8",
+               "member_since": "2021-07-24",
+               "name": "[ALAS] Cardano Pool"
+            }, 
+            "99": {    
+               "pool_id": "a37460a9b761e67b18f0262ad18f80263f6b6d143c33a9873965ecd3",
+               "member_since": "2021-07-25",
+               "name": "[MAJOR] Major Pool"
+            },
+            "100": {    
+               "pool_id": "70ab9e73071c50927631a218137d53e765665a578b744feeae3c5d81",
+               "member_since": "2021-07-23",
+               "name": "[Faso] FasoPool"
+            },
+              "101": {    
                "pool_id": "ef603340ac08cbe1cbe003821a2272e15612b50b86c0066e043dc64e",
                "member_since": "2021-07-18",
                "name": "[NEP] NEPTUNE Stake Pool"
