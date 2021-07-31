@@ -527,6 +527,11 @@
                "pool_id": "70ab9e73071c50927631a218137d53e765665a578b744feeae3c5d81",
                "member_since": "2021-07-23",
                "name": "[Faso] FasoPool"
+            },
+            "101": {
+               "pool_id": "059b4217a24a8c67a363968ff1db13a17ed96e611362450c115b2415",
+               "member_since": "2021-04-02",
+               "name": "[AMOON] ADA Moon Pool"
             }
         }
     }
