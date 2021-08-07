@@ -527,6 +527,11 @@
                "pool_id": "70ab9e73071c50927631a218137d53e765665a578b744feeae3c5d81",
                "member_since": "2021-07-23",
                "name": "[Faso] FasoPool"
+            },
+             "101": {    
+               "pool_id": "666c22b0b35f110f2229f850a047bc3ac3e53e82813e5b5df147950f",
+               "member_since": "2021-07-24",
+               "name": "[BRO] Brotein Stake"
             }
         }
     }
