@@ -527,6 +527,11 @@
                "pool_id": "70ab9e73071c50927631a218137d53e765665a578b744feeae3c5d81",
                "member_since": "2021-07-23",
                "name": "[Faso] FasoPool"
+            },
+            "101": {    
+               "pool_id": "5e1c0f2519b2ea005de5c418568a3323d7a2dddb2dc1e6a39d88cd02",
+               "member_since": "2021-08-08",
+               "name": "[STUPD] Stupid Cotton"
             }
         }
     }
