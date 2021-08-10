@@ -527,6 +527,11 @@
                "pool_id": "70ab9e73071c50927631a218137d53e765665a578b744feeae3c5d81",
                "member_since": "2021-07-23",
                "name": "[Faso] FasoPool"
+            },
+            "101": {    
+               "pool_id": "51694f0d52a25a3ade521472a9c575205651b2c1253410449e1c1de9",
+               "member_since": "2021-08-10",
+               "name": "[BOSON] Ada4Science Pool"
             }
         }
     }
