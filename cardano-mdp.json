@@ -528,7 +528,7 @@
                "member_since": "2021-07-23",
                "name": "[Faso] FasoPool"
             },
-            "101": {    
+            "101": {
                "pool_id": "576e0390ac54e3751afdaa8aa256f41b84a6324006f23991f6fdefb7",
                "member_since": "2021-07-16",
                "name": "[USONE] Us As One - Unified Shores"
@@ -557,6 +557,11 @@
                "pool_id": "68d8505aea5a000e630f904f8741c1deec9135a729e5df770fe3b659",
                "member_since": "2021-08-10",
                "name": "[NIMUE] Nimuë Lady of the Lake Pool"
+            },
+            "107": {   
+               "pool_id": "51694f0d52a25a3ade521472a9c575205651b2c1253410449e1c1de9",
+               "member_since": "2021-08-10",
+               "name": "[BOSON] Ada4Science Pool"
             }
         }
     }
