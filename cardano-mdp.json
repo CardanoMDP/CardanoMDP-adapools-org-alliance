@@ -562,7 +562,12 @@
                "pool_id": "51694f0d52a25a3ade521472a9c575205651b2c1253410449e1c1de9",
                "member_since": "2021-08-10",
                "name": "[BOSON] Ada4Science Pool"
-            }
+            },
+            "108": {
+               "pool_id": "fd2a060be85493dfdb03eecb6343a76636823d223d680a202b900f65",
+               "member_since": "2021-08-17",
+               "name": "[RADAR] RADAR Stake Pool"
+            }   
         }
     }
 }
