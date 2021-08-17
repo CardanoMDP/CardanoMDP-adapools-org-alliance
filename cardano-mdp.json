@@ -531,7 +531,7 @@
             "101": {    
                "pool_id": "576e0390ac54e3751afdaa8aa256f41b84a6324006f23991f6fdefb7",
                "member_since": "2021-07-16",
-               "name": "[USONE] Us As One - Unified Shores
+               "name": "[USONE] Us As One - Unified Shores"
             },
             "102": {    
                "pool_id": "ef603340ac08cbe1cbe003821a2272e15612b50b86c0066e043dc64e",
@@ -552,6 +552,11 @@
                "pool_id": "fb82466458cb60c5295b8d335c24c83d85d510e0e012b877bcadbe98",
                "member_since": "2021-08-09",
                "name": "[GUI] GUI Pool"
+            },
+            "106": {    
+               "pool_id": "68d8505aea5a000e630f904f8741c1deec9135a729e5df770fe3b659",
+               "member_since": "2021-08-10",
+               "name": "[NIMUE] Nimuë Lady of the Lake Pool"
             }
         }
     }
