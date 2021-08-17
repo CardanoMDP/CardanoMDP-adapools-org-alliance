@@ -562,7 +562,12 @@
                "pool_id": "51694f0d52a25a3ade521472a9c575205651b2c1253410449e1c1de9",
                "member_since": "2021-08-10",
                "name": "[BOSON] Ada4Science Pool"
-            }
+            },
+            "108": {
+					"pool_id": "be80794a946cf5e578846fc81e3c62ac13f4ab3335e0f5dc046edad4",
+					"member_since": "2021-08-14",
+					"name": "[HAZEL] Hazelpool"
+				}
         }
     }
 }
