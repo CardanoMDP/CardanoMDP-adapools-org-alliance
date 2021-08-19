@@ -562,6 +562,11 @@
                "pool_id": "51694f0d52a25a3ade521472a9c575205651b2c1253410449e1c1de9",
                "member_since": "2021-08-10",
                "name": "[BOSON] Ada4Science Pool"
+            },
+            "108": {   
+               "pool_id": "aa6dd7ae211c87f6cadd6031a641e224d00f49c5cb736a7a502d5056",
+               "member_since": "2021-08-19",
+               "name": "[STAY] Here To STAY Pool"
             }
         }
     }
