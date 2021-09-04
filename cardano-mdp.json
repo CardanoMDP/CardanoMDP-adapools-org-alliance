@@ -577,7 +577,12 @@
                "pool_id": "666c22b0b35f110f2229f850a047bc3ac3e53e82813e5b5df147950f",
                "member_since": "2021-07-24",
                "name": "[BRO] Brotein Stake"         
-            }
+            },
+            "111": { 
+            "pool_id": "be80794a946cf5e578846fc81e3c62ac13f4ab3335e0f5dc046edad4",
+					  "member_since": "2021-08-14",
+					  "name": "[HAZEL] Hazelpool"
+				    }
         }
     }
 }
