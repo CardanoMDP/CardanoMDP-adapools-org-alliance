@@ -567,6 +567,16 @@
                 "pool_id": "404aaa9c117da737630cb2dd064c5215bfca63cfda0cd79c0fb31fca",
                 "member_since": "2021-07-29",
                 "name": "[OXYGN] Oxygen Pool"
+            },
+            "109": {    
+               "pool_id": "91991d9238f3f270a46fc237acc3abcdf2456ff163c1639951d75d15",
+               "member_since": "2021-06-20",
+               "name": "[COINZ] ADA Coinz"
+            },
+            "110": {    
+               "pool_id": "666c22b0b35f110f2229f850a047bc3ac3e53e82813e5b5df147950f",
+               "member_since": "2021-07-24",
+               "name": "[BRO] Brotein Stake"         
             }
         }
     }
