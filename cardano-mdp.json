@@ -563,7 +563,32 @@
                "member_since": "2021-08-10",
                "name": "[BOSON] Ada4Science Pool"
             },
-            "108": {   
+            "108": {
+               "pool_id": "404aaa9c117da737630cb2dd064c5215bfca63cfda0cd79c0fb31fca",
+               "member_since": "2021-07-29",
+               "name": "[OXYGN] Oxygen Pool"
+            },
+            "109": {    
+               "pool_id": "91991d9238f3f270a46fc237acc3abcdf2456ff163c1639951d75d15",
+               "member_since": "2021-06-20",
+               "name": "[COINZ] ADA Coinz"
+            },
+            "110": {    
+               "pool_id": "666c22b0b35f110f2229f850a047bc3ac3e53e82813e5b5df147950f",
+               "member_since": "2021-07-24",
+               "name": "[BRO] Brotein Stake"         
+            },
+            "111": { 
+               "pool_id": "be80794a946cf5e578846fc81e3c62ac13f4ab3335e0f5dc046edad4",
+					     "member_since": "2021-08-14",
+					     "name": "[HAZEL] Hazelpool"
+				    },
+            "112": {   
+               "pool_id": "2f5de17f4aef94923d82520eb9787d3081772bdea1264d919dcf48cb",
+               "member_since": "2021-08-18",
+               "name": "[HUG] Happy HUG Staking"
+            },
+            "113": {   
                "pool_id": "aa6dd7ae211c87f6cadd6031a641e224d00f49c5cb736a7a502d5056",
                "member_since": "2021-08-19",
                "name": "[STAY] Here To STAY Pool"
