@@ -501,7 +501,7 @@
             "95": {    
                "pool_id": "297b5acd8b90df8a1bfd98aa1a61f323b87fead4b8a2b55f2fb83ce6",
                "member_since": "2021-07-18",
-               "name": "[ALoop] AdaLoop"
+               "name": "[ALOOP] AdaLoop"
             },
             "96": {    
                "pool_id": "74d66da57368e12f12bd07f303da7f8cd3c2494af9e32e4dea210c58",
@@ -529,6 +529,41 @@
                "name": "[Faso] FasoPool"
             },
             "101": {
+               "pool_id": "576e0390ac54e3751afdaa8aa256f41b84a6324006f23991f6fdefb7",
+               "member_since": "2021-07-16",
+               "name": "[USONE] Us As One - Unified Shores"
+            },
+            "102": {    
+               "pool_id": "ef603340ac08cbe1cbe003821a2272e15612b50b86c0066e043dc64e",
+               "member_since": "2021-07-18",
+               "name": "[NEP] NEPTUNE Stake Pool"
+            },
+            "103": {
+               "pool_id": "059b4217a24a8c67a363968ff1db13a17ed96e611362450c115b2415",
+               "member_since": "2021-07-22",
+               "name": "[AMOON] ADA Moon Pool"
+            },
+            "104": {
+               "pool_id": "5e1c0f2519b2ea005de5c418568a3323d7a2dddb2dc1e6a39d88cd02",
+               "member_since": "2021-08-08",
+               "name": "[STUPD] Stupid Cotton"
+            },
+            "105": {
+               "pool_id": "fb82466458cb60c5295b8d335c24c83d85d510e0e012b877bcadbe98",
+               "member_since": "2021-08-09",
+               "name": "[GUI] GUI Pool"
+            },
+            "106": {    
+               "pool_id": "68d8505aea5a000e630f904f8741c1deec9135a729e5df770fe3b659",
+               "member_since": "2021-08-10",
+               "name": "[NIMUE] Nimuë Lady of the Lake Pool"
+            },
+            "107": {   
+               "pool_id": "51694f0d52a25a3ade521472a9c575205651b2c1253410449e1c1de9",
+               "member_since": "2021-08-10",
+               "name": "[BOSON] Ada4Science Pool"
+            },
+            "108": {
                 "pool_id": "404aaa9c117da737630cb2dd064c5215bfca63cfda0cd79c0fb31fca",
                 "member_since": "2021-07-29",
                 "name": "[OXYGN] Oxygen Pool"
