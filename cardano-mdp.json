@@ -579,10 +579,15 @@
                "name": "[BRO] Brotein Stake"         
             },
             "111": { 
-            "pool_id": "be80794a946cf5e578846fc81e3c62ac13f4ab3335e0f5dc046edad4",
-					  "member_since": "2021-08-14",
-					  "name": "[HAZEL] Hazelpool"
-				    }
+              "pool_id": "be80794a946cf5e578846fc81e3c62ac13f4ab3335e0f5dc046edad4",
+					    "member_since": "2021-08-14",
+					    "name": "[HAZEL] Hazelpool"
+				    },
+            "112": {   
+              "pool_id": "2f5de17f4aef94923d82520eb9787d3081772bdea1264d919dcf48cb",
+              "member_since": "2021-08-18",
+              "name": "[HUG] Happy HUG Staking"
+            }
         }
     }
 }
