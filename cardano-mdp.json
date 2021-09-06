@@ -602,7 +602,12 @@
                "pool_id": "cc49ee3c6b02850b63dd9c18b1b6a18b16c2dd1f20962c320cfd94a7",
                "member_since": "2021-08-31",
                "name": "[CRPL] Carden Pool"
-	    }
+	    },
+	    "116": {
+               "pool_id": "718f15efee599d498a7582c4f56a940cfebffc14e850656db8d529e1",
+               "member_since": "2021-09-06",
+               "name": "[HIPPO] HIPPO Pool"
+	    }		
         }
     }
 }
