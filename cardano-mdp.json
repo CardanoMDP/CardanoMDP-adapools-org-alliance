@@ -607,7 +607,12 @@
                "pool_id": "fd2a060be85493dfdb03eecb6343a76636823d223d680a202b900f65",
                "member_since": "2021-08-17",
                "name": "[RADAR] RADAR Stake Pool"
-            }   
+            },
+	          "117": {
+               "pool_id": "627a4ecacdc3d0e3fb5fe9a8cee8880a43069ec2f46d5217decef71c",
+               "member_since": "2021-08-05",
+               "name": "[KAYA] KAYA Pool"
+	          }
         }
     }
 }
