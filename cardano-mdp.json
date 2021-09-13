@@ -612,7 +612,12 @@
                "pool_id": "627a4ecacdc3d0e3fb5fe9a8cee8880a43069ec2f46d5217decef71c",
                "member_since": "2021-08-05",
                "name": "[KAYA] KAYA Pool"
-	          }
+	          },
+	           "118": {
+               "pool_id": "718f15efee599d498a7582c4f56a940cfebffc14e850656db8d529e1",
+               "member_since": "2021-09-06",
+               "name": "[HIPPO] HIPPO Pool"
+	          }		
         }
     }
 }
