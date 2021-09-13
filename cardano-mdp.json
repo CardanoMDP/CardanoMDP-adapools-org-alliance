@@ -596,7 +596,7 @@
             "114": {
                "pool_id": "2c3390339aba47100f9ab1a230d6d726e10e9d527be49dc5bab479da",
                "member_since": "2021-08-01",
-               "name": "[RUBY] Ruby Pool
+               "name": "[RUBY] Ruby Pool"
             },
 	          "115": {
                "pool_id": "cc49ee3c6b02850b63dd9c18b1b6a18b16c2dd1f20962c320cfd94a7",
@@ -613,10 +613,15 @@
                "member_since": "2021-08-05",
                "name": "[KAYA] KAYA Pool"
 	          },
-	           "118": {
+	          "118": {
                "pool_id": "718f15efee599d498a7582c4f56a940cfebffc14e850656db8d529e1",
                "member_since": "2021-09-06",
                "name": "[HIPPO] HIPPO Pool"
+            },   
+            "119": {
+               "pool_id": "e80753d6214589d0682aa53cc44cd033a72a4299da8dc82696a93b5e",
+               "member_since": "2021-09-08",
+               "name": "[PEAK] PEAK Pool"
 	          }		
         }
     }
