@@ -622,7 +622,12 @@
                "pool_id": "e80753d6214589d0682aa53cc44cd033a72a4299da8dc82696a93b5e",
                "member_since": "2021-09-08",
                "name": "[PEAK] PEAK Pool"
-	          }		
+	          },
+		 "120": {
+               "pool_id": "9dcb2a0398835a6b0a71dd5bbaa0d6bb961276aedd72f2655c7879d0",
+               "member_since": "2021-09-17",
+               "name": "[FUNGI] Fungi Pool"
+	          }
         }
     }
 }
