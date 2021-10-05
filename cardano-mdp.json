@@ -627,7 +627,12 @@
                "pool_id": "9dcb2a0398835a6b0a71dd5bbaa0d6bb961276aedd72f2655c7879d0",
                "member_since": "2021-09-17",
                "name": "[FUNGI] Fungi Pool"
-	    }
+	    },
+            "121": {
+                "pool_id": "6083db098b3574bf583fee83c879c19c2d908dbf19b1184d272f9632",
+                "member_since": "2021-09-19",
+                "name": "[LHS] Lighthouse Stake Pool"
+            }
         }
     }
 }
