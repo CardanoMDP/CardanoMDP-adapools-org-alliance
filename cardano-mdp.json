@@ -647,6 +647,11 @@
                "pool_id": "38d44f2bbccd27b654e532e6937e3a60b900168082f5c1b4fe236974",
                "member_since": "2021-09-22",
                "name": "[ALPCH] Alpen Cardano"
+            },
+	          "125": {
+                "pool_id": "1ae768c8f263ddf7804a91cc0ade84cddfc63a2697a274a3fa762b0c",
+                "member_since": "2021-11-12",
+                "name": "[MOKUM] Mokum Stake Pool"
             }
         }
     }
