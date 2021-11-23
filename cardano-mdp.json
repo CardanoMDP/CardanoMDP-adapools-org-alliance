@@ -641,7 +641,12 @@
             "123": {
                 "pool_id": "4159a9cc7339bd2c495ad83239c2f1b97c8d2097eed6b120e08948c9",
                 "member_since": "2021-10-06",
-                "name": "[DEGAS] DEGAS Pool"
+                "name": "[DEGAS] DEGAS Pool"},
+            },
+	    "124": {
+                "pool_id": "1ae768c8f263ddf7804a91cc0ade84cddfc63a2697a274a3fa762b0c",
+                "member_since": "2021-11-12",
+                "name": "[MOKUM] Mokum Stake Pool"
             }
         }
     }
